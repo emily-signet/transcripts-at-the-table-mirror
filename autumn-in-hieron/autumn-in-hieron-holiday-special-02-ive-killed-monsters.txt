@@ -2197,7 +2197,7 @@ ART (as Hadrian): Lucius...it's...it's over. We...we know everything.
 AUSTIN (as Lucius): What do you know?
 ART (as Hadrian): I know-
 [PAUSE]
-KEITH (as Fero): Alright, so some of this stuff is a little bit foggy [Everyone giggles] But like basically...so basically we know that you're working with the orcs.
+KEITH (as Fero): Alright, so some of this stuff is a little bit foggy[a] [Everyone giggles] But like basically...so basically we know that you're working with the orcs.
 AUSTIN: Whoa, whoa! Oh, Fero. Oh Fero.
 (overlapping)
 AUSTIN: Fero's so casual!
@@ -2331,7 +2331,7 @@ KEITH: Hold on, I-
 ART: Yeah, you – I’ll vote for giving up Mitta.
 JACK: You know, Austin.
 ART: I vote for giving up Mitta
-ART: Mitta- why is, she's gone. What do you care if they know she did it? She's gone.
+ART: Mitta- why is[b], she's gone. What do you care if they know she did it? She's gone.
 KEITH, incredulous: Also, I wanna go back for a second! Art said 'I guess I'm the only one not okay with murder' - you fuckin snapped that dude's neck, you weirdo!
 AUSTIN: We'll get there! We'll get there!
 [overlapping protests]
@@ -2791,3 +2791,9 @@ JACK: Happy holidays, everybody!
 ALI: Yeah!
 AUSTIN: Happy holidays!
 [END]
+
+
+
+
+[a]fuzzy
+[b]Meta-wise
