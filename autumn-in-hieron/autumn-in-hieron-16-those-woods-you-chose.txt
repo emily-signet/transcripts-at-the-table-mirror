@@ -918,7 +918,7 @@ ART: Intelligence is my lowest stat.
 AUSTIN: That's true.
 
 
-ART: Like, I knew— I knew it wasn't good outside.
+ART: Like, I knew— I knew it wasn't good[a] outside.
 
 
 AUSTIN: Uh-huh.
@@ -3314,3 +3314,4 @@ AUSTIN: So 10 seconds.
 
 ________________
 [1] Felan Parker (@Felantron) https://twitter.com/Felantron
+[a]going to win
