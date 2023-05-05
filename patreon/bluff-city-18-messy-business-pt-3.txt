@@ -13,11 +13,11 @@ KEITH: Agent Heard/Robber Twig [Created for Messy Business]
 [Intro music starts - notes on the track here. Further notes in the Patreon description.]
 
 
-AUSTIN [as Specialist Courson]: Specialist Courson, start record: Article intake, file number 8504. Object: Um, it’s a car? You sent me a car. Let me see: It says- it says ‘Teardrop Coupe’. C’mon, you know this isn’t the-. Alright, description: Um, two doors, four seats, it’s- it’s round. Like- I- uh- it has- it has really nice curves, uh, it’s a great powder blue, silver trim, cream interior. That’s what it’s called, right? The interior? There’s the stick in the middle, and pedals - I’m gonna say that it’s a manual. 
-Big trunk, [sighs] there’s a spare tire in here- um, condition: I don’t see any scratches or anything. Let me pop the hood and look at the engine- yep, that’s an engine alright. Look, you know I don’t have the diagnostics for something like this, you’re gonna get what you’re gonna get unless you shell out for an expert. 
-[sighs] Alright, the tires: They look a little rough, actually. You know what? Now I’m down here, it looks like there’s some dirt and muck on the rear- carriage? the undercarriage? Is that what it’s- [beat] Wait, there’s blood on this fucking thing, Mimona! You’re supposed to check for shit like this before you send it my way. You know my policy on unclassified blood! I’m doubling my invoice for this one - deal with it. 
-[sighs] Price: Um, blue book says 7k, but with the wear and tear on this one, no way. Fifty… four hundred, maybe. Comments and analysis: Fire in hell, what do you want me to say? It is a car. I think it probably hit someone, or drove through a crime scene, or maybe it is a crime scene. I’m not saying it’s a waste of my time but you know my speciality. Crosstown ephemera - pencils, glassware, home movies- those little… canvas grocery bags. That’s my speciality, crosstown ephemera. Are cars ephemera? Like, maybe from a real bird’s eye view, maybe, I guess, and do not tell me to take my aerial form, okay- fuck you. 
-Next time, bring me a licence plate, bring me a… detachable faceplate from a stereo receiver, one of those little cigarette lighter things, perfect. I can tell you who used that, I can tell you where they were going, I can tell you what brand they smoked - but a whole car? Fuck, you know the story. I am the Knower of Things Hidden, secret and divine both. Not the Knower of Parking Lot Subsection 4C. And before you say anything- no, it is a nice car, but it is not divine. It has been a long week, and things have been weird, so sorry for snapping - but please, next time, bring something like this to Bathin, maybe to Lee. Those folks? They know their chariots.
+AUSTIN [as Specialist Courson]: Specialist Courson, start record: Article intake, file number 8504. Object: Um, it’s a car? You sent me a car. Let me see: It says- it says ‘Teardrop Coupe’. C’mon, you know this isn’t- [sighs]. Alright, description: Um, two doors, four seats, it’s- it’s round. Like- I, uh- it has- it has really nice curves, uh, it is a great, kind of powder blue, silver trim, cream interior. That’s what it’s called, right? Interior? There’s the stick in the middle, three pedals - so I’m gonna say it’s a manual. 
+Big trunk, [sighs] there’s a spare tire in here. Um, condition: I don’t see any scratches or anything. Let me pop the hood and look at the engine. Yeah, that’s an engine alright. Look, you know I don’t have the diagnostics for something like this, you’re gonna get what you’re gonna get unless you wanna shell out for an expert. 
+[sighs] Alright, the tires: They look a little rough, actually. You know what? Now that I’m down here, there’s some dirt and muck on the rear- carriage? The undercarriage? Is that, is that what it’s- [beat] Wait, there’s blood on this fucking thing, Mimona! You’re supposed to check for shit like this before you send it my way. You know my policy on unclassified blood! I’m doubling my invoice for this one. Deal with it. 
+[sighs] Price: Um, blue book says 7k, but with the wear and tear on this one, no way. Fifty… four hundred… maybe. Comments and analysis: Fire in hell, what do you want me to say? It is a car. I think it probably hit someone, or drove through a crime scene, or maybe it is a crime scene. I’m not saying it’s a waste of my time but you know my specialty. Crosstown ephemera - pencils, glassware, home movies, those little canvas grocery bags. That’s my speciality, crosstown ephemera. Are cars ephemera? Like, maybe from a real bird’s eye view, I guess, maybe, and do not tell me to take my aerial form, okay, fuck you. 
+Next time, bring me a licence plate, bring me a… detachable faceplate from a stereo receiver, one of those little cigarette lighter things, perfect. I can tell you who used that, I can tell you where they were going, I can tell you what brand they smoked - but a whole car? Fuck, you know the story. I am the Knower of Things Hidden, secret and divine both. Not the Knower of Parking Lot Subsection 4C. And before you say anything- no, it is a nice car, but it is not divine. It has been a long week, and things have been weird, so, sorry for snapping, but please, next time, bring something like this to Bathin, maybe to Lee. Those folks? They know their chariots.
 
 
 [Intro music fades to dial tone, but wind foley remains]
@@ -45,7 +45,7 @@ Next time, bring me a licence plate, bring me a… detachable faceplate from a s
         KEITH [as Robber]: Others… with me?
 
 
-        AUSTIN [as Leslie, interrupting]: Yours
+        AUSTIN [as Leslie, interrupting]: Yours.
 
 
         KEITH [as Robber]: [crosstalk] Yes. Well. Maybe. Cage- they’re cagey.
@@ -81,7 +81,7 @@ AUSTIN: Also, really quick, before we do the pull-aside- did you communicate the
 JANINE: Yeah
 
 
-AUSTIN: Okay, I just wanted to make sure that was all... But you do also know that- that the car was stolen from here, so that’s- that’s something extra. So go ahead and pull Florence aside, Chris.
+AUSTIN: Okay, I just wanted to make sure that was all... But you do also know that- that the car was stolen from here, so that’s- that’s something extra. Alright, go ahead and pull Florence aside, Chris.
 
 
 ALI: Real quick, is the car in the photo? Or is it just the weird monster?
@@ -102,7 +102,7 @@ KEITH: Okay
 AUSTIN: A hundred percent yes. Uh- go ahead and pull aside Florence then, Chris.
 
 
-ALI: Yeah, I think it’s really quick, just like - them pretending to help with the body, but when it’s clear that Seals has it, I guess [laughs] I don’t know. Just being like-
+ALI: Yeah, I think it’s really quick, just like - they’re- them pretending to help with the body, but when it’s clear that Seals has it, I guess [laughs] I don’t know. Just being like-
 
 
 ALI [as Chris]: You need to give me a sign, if you need my help.
@@ -123,10 +123,10 @@ ALI [as Chris]: We can investigate two things at once, okay?
 JACK [as Florence]: Okay
 
 
-JACK: And I think Florence just like, turns back around to the- to the group, as if she’s gonna say something? But instead just- just stands there with her arms folded, as if to transition from [Ali laughs] conversation A to conversation B.
+JACK: And I think Florence just like, turns back around to the- to the group, as though she’s gonna say something? But instead just- just stands there with her arms folded, it’s just like- [Ali laughs] I’ve transitioned from conversation A to conversation B.
 
 
-AUSTIN: God. Great. Good. How’s conversation B? Any questions about the scene still? You’ve still got time to look at stuff, et cetera.
+AUSTIN: God. Great. Good. How’s conversation B? Any questions about the scene still? You’ve got time to look at stuff, et cetera.
 
 
 KEITH: Well, I was going to look for witnesses, but we found one. And… [Keith, Jack laugh]
@@ -138,10 +138,10 @@ JACK: And then you killed him! [Keith laughs]
 KEITH: Yeah, well, you know. [Jack is laughing in the background]
 
 
-JACK: The classic witness move. Um… could I look- now I know that we’re dealing with the Curator, which is presumably an entity- well, it’s in our dossier [pages flicking in background][2] so it’s an entity we presumably know exists?
+JACK: The classic witness move. Um… could I look- now I know that we’re dealing with the Curator, which is presumably an entity- I mean, it’s in our dossier [pages flicking in background][2] so it’s an entity we presumably know exists?
 
 
-AUSTIN: Yeah, it is- it is, you know, Hostile Personality #44, right? So that’s sort of, okay, there are weird things out here.
+AUSTIN: Yeah, it is- it is, you know, Hostile Personality #44, right? So that’s enough to be like, okay, there are weird things out here.
 
 
 JACK: Yeah
@@ -171,13 +171,13 @@ KEITH: Okay, got it.
 JACK: Um… could I-
 
 
-AUSTIN: But here’s what I- mm- I really wanna give you a little more about it, because the dossier presumably has additional information about this stuff, right? Here’s what I’ll add- because the dossier probably wouldn’t be this one excerpt, it would be the entire breakdown on this thing, right? So we’re not, just the fact- so the Curator… there is- there is Bluff City, there is Blough City[3], and… there’s also like, hell? And hell is a codeword, or it’s like a real place-
+AUSTIN: But here’s what I- mm- I really wanna give you a little more about it, because the dossier presumably has additional information about this stuff, right? Here’s what I’ll add- because the dossier probably wouldn’t be this one excerpt, it would probably be the entire breakdown on this thing, right? So we’re not, just the fact- so the Curator… there is- there is Bluff City, there is Blough City[3], and… there’s also like, hell? And hell is a codeword, or it’s like a real place-
 
 
 KEITH: Oh, you’re talking about the home for eternal losers.
 
 
-AUSTIN: The home for- HFEL, yeah, uh-huh. The demon Belial was in a game for us, previously, briefly, for us- Mr Lee LB. And he is a middle man, and a deal-broker, and a black marketeer, he is not part of the Concern. He is not part of Bluff City, or Blough City, he is some weird place in between- you know, maybe hell is the road between the two, depending on which way you go? It is not a third place, in that sense? But I do like it as a collection of rest stops and roadside attractions [laughs], and the world’s tallest fork, you know? All that stuff is hell. [laughs] And I’m not just saying that because of life experience, but, it kind of is. And Mr Lee LB is… the people who operate in that space are… are… people who collect thing, who collect… you know, who can give you stuff, if you didn’t want to go through the Concern specifically? Or maybe say on the record, you know, you have to file a form, Mr Lee LB could give you something, you know, if you have something he looks for. And the thing he looks for is, often dreams, and ideas, and wistful thoughts- and the Curator is in that business. The Curator is not a known associate of Mr Lee LB, but is like- they move in similar circles? Mr Lee LB is all about deals, the Curator takes stuff. And so, to some degree it’s like, you know- the Curator would love to, you know, interfere with someone like Blake Blossom, he’s a filmmaker- there’s probably a lot there? But even the Curator still… you know, they’re called the Curator. A degree of what they do is business, is like- there’s a degree to which it is more professional than just a random killing in the middle of the dark, out in the Thicket, you know. The Curator doesn’t- isn’t a wolf. The Curator is the Curator. And so, at some point, the Curator had to learn where Blake Blossom was, the Curator- the Curator had to decide and come and do this. And so it’s this weird middle ground between, this thing is clearly monstrous, but is also not- it’s not just a force of nature, you know? 
+AUSTIN: The home for- HFEL, yeah, uh-huh. The demon Belial was in a game for us, previously, briefly, for us- Mr Lee LB. And he is a middle man, and a deal-broker, and a black marketeer, he is not part of the Concern. He is not part of Bluff City, or Blough City, he is some weird place in between- you know, maybe hell is the road between the two, depending on which way you go? It is not a third place, in that sense? But I do like it as a collection of rest stops and roadside attractions [laughs], and the world’s tallest fork, you know? All that stuff is hell. [laughs] And I’m not just saying that because of life experience, but, it kind of is. And Mr Lee LB is… the people who operate in that space are… are… people who collect things, who collect… you know, who can give you stuff, if you didn’t want to go through the Concern specifically? Or maybe say on the record, you know, you have to file a form, Mr Lee LB could give you something, you know, if you have something he looks for. And the thing he looks for is, often dreams, and ideas, and wistful thoughts- and the Curator is in that business. The Curator is not a known associate of Mr Lee LB, but is like- they move in similar circles? Mr Lee LB is all about deals, the Curator takes stuff. And so, to some degree it’s like, you know- the Curator would love to, you know, interfere with someone like Blake Blossom, he’s a filmmaker- there’s probably a lot there? But even the Curator still… you know, they’re called the Curator. There is a degree of what they do is business, is like- there’s a degree to which it is more professional than just a random killing in the middle of the dark, out in the Thicket, you know. The Curator doesn’t- isn’t a wolf. The Curator is the Curator. And so, at some point, the Curator had to learn where Blake Blossom was, the Curator- the Curator had to decide and come and do this. And so it’s this weird middle ground between, this thing is clearly monstrous, but is also not- it’s not just a force of nature, you know? 
 
 
 JACK: Right
@@ -196,7 +196,7 @@ JACK: But I don’t think I’m going to.
 AUSTIN: Okay
 
 
-KEITH: Questions we could ask who?
+KEITH: I mean, questions we could ask who?
 
 
 AUSTIN: Uh- the world.
@@ -466,7 +466,7 @@ ALI: Are you walking like- you’re walking to meet him in the middle, right?
 AUSTIN: [crosstalk] Right
 
 
-KEITH: [crosstalk] To intercept.
+KEITH: [crosstalk] I’m walking to intercept.
 
 
 ALI: Okay.
@@ -505,13 +505,13 @@ KEITH [as Robber]: [crosstalk] Taking in the nature, fr- bre- damp air.
 AUSTIN [as Mike]: Do you not get enough of it?
 
 
-KEITH [as Robber]: We have very positive feeling about nature and damp air. And so we wanted to get some. 
+KEITH [as Robber]: We have very positive feeling about wetlands and damp air. And so we wanted to get some. 
 
 
 AUSTIN: As you say that, he just like, looks up at the snow very slowly, and like… eats one of the snowflakes as it falls, just does that. And then he looks back at you and goes-
 
 
-        AUSTIN [as Mike]: Yeah, I love. You going to the parade?
+        AUSTIN [as Mike]: Yeah, I love it. You going to the parade?
 
 
 KEITH [as Robber]: Um… [pause] My friends have all gotten a headache. And so… and so that’s why we decided to come out here today, to experience the damp air.
@@ -544,7 +544,7 @@ KEITH: [crosstalk] It was Chris and- I thought it was Ryder and Page together ge
 AUSTIN: Okay.
 
 
-ALI: Yeah. I think- but as the question is being asked, Chris is lighting another cigarette [laughs]
+ALI: Yeah. I think- but as the question is asked, Chris is lighting another cigarette [laughs]
 
 
 AUSTIN: Okay! Good [Jack laughs]
@@ -586,7 +586,7 @@ KEITH [as Robber]: Okay.
 AUSTIN [as Mike]: Alright, have a good day!
 
 
-AUSTIN: And just. Turns around. Doesn’t explain what that means. And heads over to his house and you can see him- he opens his door, like- this isn’t where he’s permanently living yet, because it is a not finished house, but it’s a two or three floor- it’s a two floor home. And the- there is like, the second floor has been built to a certain floor. It’s like an unfinished house, where you can see into the second floor because there hasn’t been walls built there yet. But as he opens the door he reveals that there’s just a living room that is furnished inside of there. 
+AUSTIN: And just. Turns around. Doesn’t explain what that means. And heads over to his house and you can see him- he opens his door, like- this isn’t where he’s permanently living yet, because of it not being a finished house, but it’s a two or three floor- it’s a two floor home. And the- there is like, the second floor has been built to a certain floor. It’s like an unfinished house, where you can see into where the second floor will be because there hasn’t been walls built there yet. But as he opens the door he reveals that there’s just a living room that is furnished inside of there. 
 
 
 [Ali laughs]
@@ -661,7 +661,7 @@ ALI [as Chris]: And I think on the way back I can try to make sense of some of t
 KEITH: What other leads can we hit?
 
 
-AUSTIN: Anything in the dossier.
+AUSTIN: Anything in the dossier, right?
 
 
 KEITH: [crosstalk] Did we hit a lead?
@@ -673,7 +673,7 @@ AUSTIN: Yeah, you hit a lead. You hit a lead.
 JACK: [pages being turned in background] Yeah, I’m [filing] through the dossier here.
 
 
-AUSTIN: And also things on the board, right? [JACK: Yeah] City Wide Film Festival is still tonight, we haven’t actually spoken to Gale Green [ALI: Yeah], you know where the Teardrop Coup is- you have the keys to it, I mean obviously you’re going to Achilles Apollo, so Ryder you’re gonna want to hold onto those. You know that Finnegan Hands is connected in some weird way, he has some… insight. You know the Cultural Trust is connected to this somehow. Um… and you know the Curator is- has killed Blake Blossom. And you can- we can be very open-ended when you’re like, thinking about ways to start to piece this stuff together, because so much of it is, again, kind of procedural in some ways.
+AUSTIN: And also things on the board, right? [JACK: Yeah] City Wide Film Festival is still tonight, we haven’t actually spoken to Gale Green [ALI: Yeah], you know where the Teardrop Coup is- you have the keys to it, I mean obviously you’re going to Achilles Apollo, so I’m guessing Ryder you’re gonna want to hold onto those. You know that Finnegan Hands is connected in some weird way, he has some… insight. You know the Cultural Trust is connected to this somehow. Um… and you know the Curator is- has killed Blake Blossom. And you can- we can be very open-ended when you’re like, thinking about ways to start to piece this stuff together, because so much of it is, again, kind of procedural in some ways.
 
 
 KEITH: Mm-hm. I wanna look into the Cultural Trust. 
@@ -721,7 +721,7 @@ AUSTIN: Okay, so the hired car team goes to the bar across from the Southside Ga
 KEITH: Um… I don’t- do they have like, a sort of adjunct office where it’s not the main one? Like, that has access to the information but not the main- like, the Big Building?
 
 
-AUSTIN: [sighs] Yes and no, right? Because like, we’re pre-internet, right? So there’s no like- no shared computer database. There will be some information at The Cultural Trust. What I bet is- what exists is like, smaller satellite offices for things like- either divided by- I don’t think it’s divided by space, because space is so weird in this place. So I bet it’s divided by like, subsection? Maybe, I don’t know, maybe this is useful for you- There’s the Cultural Trust Architecture Building, there’s the Cultural Trust, you know- journalism office. There’s the Cultural Trust Film Office, right? So like-
+AUSTIN: [sighs] Yes and no, right? Because like, we’re pre-internet, right? So there’s no like- no shared computer database. There will be some information that is only available at The Cultural Trust. What I bet is- what exists is like, smaller satellite offices for things like- either divided by- I don’t think it’s divided by space, because space is so weird in this place. So I bet it’s divided by like, subsection? So, I don’t know, maybe this is useful for you- There’s the Cultural Trust Architecture Building, there’s the Cultural Trust, you know- journalism office. There’s the Cultural Trust Film Office, right? So like-
 
 
 KEITH: Right
@@ -733,7 +733,7 @@ AUSTIN: There you go.
 KEITH: Film Office sounds right, right?
 
 
-AUSTIN: Uh-huh. So from you- whoever’s driving now. Whichever one of you is driving, I’m gonna need an access roll to find that place.
+AUSTIN: Uh-huh. So from you- someone who’s driving now. Whichever one of you is driving, I’m gonna need an access roll to find that place.
 
 
 KEITH: Um, it would be me driving.
@@ -772,7 +772,7 @@ AUSTIN: [laughs]
 KEITH: In a good way! Good way.
 
 
-AUSTIN: It’s a lot of stress around this, I like it a lot. 
+AUSTIN: It’s a good stress around this, I like it a lot. 
 
 
 KEITH: 16
@@ -1021,9 +1021,9 @@ AUSTIN: Alright, yeah. You- you dial in the right set of numbers, you again hear
 JANINE: [interrupts] Having a great time.
 
 
-AUSTIN: Yep- but first a car shows up. And just like- without talking to you at all, just people in gas masks show up. They’re not wearing hazmat suits- they’re in like, coveralls- like, navy blue coveralls with bright yellow gas masks. And they go over to the body, they zip it up into a bag, they put it in the back of a van, and they drive away.
+AUSTIN: Yep- but first a van shows up. And just like- without talking to you at all, just people in gas masks show up. They’re not wearing hazmat suits- they’re in like, coveralls- like, navy blue coveralls with bright yellow gas masks. And come over and grab the body, they zip it up into a bag, they put it in the back of a van, and they drive away.
         [beat]
-So let’s do the- do you wanna do the bar then? Do you wanna do- cool bar. So I think you go to- you get this ride, they drop you off in- I wanna say it’s in Counting House? I think it’s at the edge of Counting House, which is like the downtown financial district. Which is the- lots of skyscrapers and stuff, but also just like- tall buildings, and offices, and banks and such. And- the southern parking garage- it’s like a 15-12 floor parking garage,  and across the street from it is a little- a little bar. What’s it called? Let’s see- I think it’s just called Lounge. And… it is….
+So let’s do the- do you wanna do the bar then? Do you wanna do- cool bar. So I think you go to- you get this ride, they drop you off in- I wanna say it’s in Counting House? I think it’s at the edge of Counting House, which is like the downtown financial district. Which is the- lots of skyscrapers and stuff, but also just like- tall buildings, and banks, and offices and such. And- the southern parking garage- it’s like a 15-12 floor parking garage,  and across the street from it is a little- a little bar. What’s it called? Let’s see- I think it’s just called Lounge. And… it is….
 
 
 JANINE: What kind of bar is it?
@@ -1041,7 +1041,7 @@ AUSTIN: Oh, it’s just called Lounge.
 JANINE: Oh, okay
 
 
-AUSTIN: None of these places have real names. None of these places have dev- none of these places have individuality, they’re not allowed. Best you could do is bar versus lounge versus pub, you know? And so this is Lounge. And it is… it’s kinda like someone’s finished basement? There’s lots of wood- a pool table, lots of dark stained glass? You know what I mean? Like, interior stained glass that goes into, like, shitty bars? [laughs] Like, it’ll be a booth with- with like, red vinyl… padding, or like red vinyl and whatever. And between the booths, above where your head- where your neck is, is just like a really weird stained glass separator that just says Lounge in stained glass? And that is where you are meeting Achilles Apollo. I think you’ve beaten him here, probably, so you’re able to get a booth. There’s a rule, as you step in- it says, ah- “Whispers and Words only”. By words, you know they mean notes- handwritten notes.
+AUSTIN: None of these places have real names. None of these places have develop- none of these places have individuality, they’re not allowed. Best you could do is bar versus lounge versus pub, you know? And so this is Lounge. And it is… it’s kinda like someone’s finished basement? There’s lots of wood- a pool table, lots of like, dark stained glass? You know what I mean? Like, interior stained glass that goes into, like, shitty bars? [laughs] Like, it’ll be a booth with- with like, red vinyl… padding, or like red vinyl and whatever. And between the booths, above where your head- where your neck is, is just like a really weird stained glass separator that just says Lounge in stained glass? And that is where you are meeting Achilles Apollo. I think you’ve beaten him here, probably, so you’re able to get a booth. There’s a rule, as you step in- it says, ah- “Whispers and Words only”. By words, you know they mean notes- handwritten notes.
 
 
 ALI: Oh, thank god. [laughs]
@@ -1065,7 +1065,7 @@ AUSTIN: This is… that. Like, it literally is. The Bluff City that she lived in
 ALI: Okay
 
 
-AUSTIN: And again, for Maggie… time is weird here. For Maggie… there was a Billy Joel song playing as a bird was fighting someone, and everyone was yelling, and- there was just a weird, strange, loud, aggressive, exciting world. The Bluff City that Chris is from… is a little more restrained, a little more restrictive- so things this specific thing that happened in Bluff City, happened in places like, CD Bar, that happened at the police galas, et cetera- originates in Blough City. And the reason that you lived through it was- you were living in an era where Blough City had successfully begun to influence Bluff. So, that is what this place is like. And you were able to get a booth- it’s quiet right now, it’s before the end of day rush. And we definitely get, as you get dropped off, a marching band goes off behind- pulls behind you? The whole road closes up as this parade continues. And it’s growing, it’s definitely growing- like, there’s new instruments every time we see it. Maybe even a float.
+AUSTIN: And again, for Maggie… time is weird here. For Maggie… there was a Billy Joel song playing as a bird was fighting someone, and they stormed a bowling alley, and everyone was yelling, and- there was just a weird, strange, loud, aggressive, exciting world. The Bluff City that Chris is from… is a little more restrained, a little more restrictive- so things this specific thing that happened in Bluff City, happened in places like, CD Bar, that happened at the police galas, et cetera- originates in Blough City. And the reason that you lived through it was- you were living in an era where Blough City had successfully begun to influence Bluff. So, that is what this place is like. And you were able to get a booth- it’s quiet right now, it’s before the end of day rush. And we definitely- again, as you get dropped off, a marching band goes off behind- pulls behind you? The whole road closes up as this parade continues. And it’s growing, it’s definitely growing- like, there’s new instruments every time we see it. Maybe even a float.
 
 
 ALI: Can I-
@@ -1173,7 +1173,7 @@ AUSTIN: Okay. Well, after getting drinks- water, beer, [JANINE: Sidecar], whiske
 JANINE: Sidecar
 
 
-AUSTIN: Sidecar, love it. [Ali snorts in background] Good job…. Achilles Apollo comes in. As a reminder, he’s a very big, black dude- he’s a prize fighter, like he’s a heavyweight fighter- which means he’s a subst- like, he takes up the room as he comes in. He’s bald- it’s like- his head is shaved, uh- and in this moment, he has like a grey suit with a black turtleneck on- with a white pocketsquare. And he’s wearing, uh- I don’t think he’s wearing sunglasses, but he is carrying a very nice umbrella which he closes in the- you know, at the side of door, like he hangs it. And he nods to you and he comes over and he sits down and goes-
+AUSTIN: Sidecar, love it. [Ali snorts in background] Good job…. Achilles Apollo comes in. As a reminder, he’s a very big, black dude- he’s a prize fighter, like he’s a heavyweight fighter- which means he’s a subst- like, he takes up the room as he comes in. He’s bald- it’s like- his head is shaved, uh- and in this moment, he has like a grey suit with a black turtleneck on- with a white pocket square. And he’s wearing, uh- I don’t think he’s wearing sunglasses, but he does have a very nice umbrella which he closes in the- you know, at the side of door, like he hangs it. And he nods to you and he comes over and he sits down and goes-
 
 
         AUSTIN (as ACHILLES): Who’s your friend?
@@ -1233,7 +1233,7 @@ JANINE: Wasn’t Achilles Apollo at the fight that Maggie Darcy broke up with gu
 AUSTIN: Oh shit! Yeah… [Ali laughs] Yeah he was! So yeah, good catch- [makes tape rewinding noise as Janine laughs]. Stops in his tracks… like tilts his head and just sits back down… Like, the thing I was talking about, with the- yeah, he was the one there. Um… with the Billy Joel song playing… He’s like- does he know you as Chris or does he know you as Ryder?
 
 
-ALI: Oh, I- I assume they met here, right?
+ALI: Oh, I- I mean, I assume they met here, right?
 
 
 AUSTIN: [crosstalk] So Ryder
@@ -1281,7 +1281,7 @@ JANINE: And she like, smirks a bit [Ali laughs] and takes a sip of her drink. [l
 ALI: Um… I think Chris has the keys and the note, and is like, squeezing them in her hand, and like, has her hands in front of her on the table, and has not like- revealed them to Apollo, but he probably understands. And I think that she’s just like…
 
 
-ALI (as CHRIS): Well I’m here for an investigation, and… I wanna know… [laughs nervously] there are things I’d like to find out from you rather than somebody else. 
+ALI (as CHRIS): Well I’m here for an investigation, and… I wanna know… [laughs nervously] there are things I’d like to find out from you instead of finding out from somebody else. 
 
 
 AUSTIN (as ACHILLES): Sure. [sighs] What type of things?
@@ -1302,7 +1302,7 @@ AUSTIN (as ACHILLES): Investigators ain’t involved. Investigators are nearby. 
 ALI (as CHRIS): Investigators are given a… a mission and they involve themselves.
 
 
-AUSTIN: Give me a… instinct.
+AUSTIN: Give me a… an instinct.
 
 
 ALI: Sure. [pause] I think I’m just gonna go with four here?
@@ -1392,7 +1392,7 @@ AUSTIN: So the- Achilles told- Achilles stole the Coup, gave Gale the keys to it
 ALI: Right
 
 
-AUSTIN: And then when Gale is like- ah, the reel wasn’t there! He was just gonna be like ‘Damn, the Cultural Trust must’ve got it’ or ‘Damn, someone else must’ve got it’. 
+AUSTIN: And then when Gale is like- ah, the reel wasn’t there! He was just gonna be like ‘Damn, the Cultural Trust got it’ or ‘Damn, someone else must’ve got it’. 
 
 
 ALI: Mm. Did he hand me the reel or is it just on the table? [giggles]
@@ -1479,7 +1479,7 @@ JANINE (as MAGGIE): I mean… there are certain sorts of circumstances that… r
 AUSTIN (as ACHILLES): [pauses, sighs] That’s not taking a dive, that’s taking a bullet, right? What do you have in mind?
 
 
-AUSTIN: But he’s like, interest- You know what, give me a roll. Give me a roll on this, this is Instinct- Intuition, to get him to do… whatever bullshit you’re about to pitch [Janine laughs, Ali laughs] Um… that’s 3. Oh no- you’re still in, you’re still in range- right, Maggie?
+AUSTIN: But he’s like, interest- You know what, give me a roll. Give me a roll on this, this is Instinct- Intuition, to convince him to do… whatever bullshit you’re about to pitch [Janine laughs, Ali laughs] Um… that’s 3. Oh no- you’re still in, you’re still in range- right, Maggie?
 
 
 JANINE: Yep
@@ -1515,7 +1515,7 @@ AUSTIN: Wow, you rolled 4d6 and got 11! Wow! Right on the nose! [Ali laughs] God
 00;49;29 - 00;56;39
 
 
-AUSTIN: But I think we cut there and we go to the… two agents who have parked the car in a little corner lot, Agents Heard and Page. And you’re walking to…. I’ve mentioned there’s only a limited number of building- like styles? And the Cultural Trust is not hypocritical about this. They build their buildings out of the same pool as everybody else, they don’t get special buildings? And the building like this one, the Cultural Trust’s film department is inside of a bank. The outside of the building is a bank, but instead of just saying ‘BANK’, it says ‘TRUST’ in big Impact serif font, basically.
+AUSTIN: But I think we cut there and we go to the… two agents who have parked the car in a little corner lot, Agents Heard and Page. And you’re walking to…. I’ve mentioned there’s only a limited number of building- like styles? And the Cultural Trust is not hypocritical about this. They build their buildings out of the same pool as everybody else, they don’t get special buildings. And the building like this one, the Cultural Trust’s film department is inside of a bank. The outside of the building is a bank, but instead of just saying ‘BANK’, it says ‘TRUST’ in big Impact serif font, basically.
 
 
 KEITH: Which a bank might say!
@@ -1557,7 +1557,7 @@ JACK: [laughs] We don’t know that the film- as far as we know, the only copy o
 AUSTIN: Right. We do not know that- In fact, we don’t know that.
 
 
-KEITH: Drummer Boy? Is that mid- slightly up tempo from the…
+KEITH: Drummer Boy? Is that a- mid- slightly up tempo from the…
 
 
 AUSTIN: Yeah, I like that, and then you also get the- get the drums as you go into that building, that’s good. That specific drum beat is good. 
@@ -1572,7 +1572,7 @@ KEITH: Rum-pum-pum-pum.
 JACK: Um… [deliberates] What’s the inside of this… how is this structured? Is there like, a reception, with people working in the reception? Or more like…
 
 
-AUSTIN: Yeah, it is a bank- it is a bank lobby, and they’ve put like, a reception area on to the… So I think you go in, there’s a huge seal, like a- like a, you know, an official government seal that says “The Cultural Trust”, and there’s a picture of the… the picture of a bird, like a person with an eagle head? It’s like Lady Liberty… or not Lady Liberty, like the blind Justice? Like Justice holding the scales? [JACK: Mmm!] But it’s an eagle head and… it’s holding in one- it has two hands, one hand is holding- what are they? What are the two things?
+AUSTIN: Yeah, it is a bank- it is a bank lobby, and they’ve put like, a reception area on to the… So I think you go in, there’s a huge seal, like a- like a, you know, an official government seal that says “The Cultural Trust”, and there’s a picture of the… the picture of a bird, like a person with an eagle head? It’s like Lady Liberty… or not Lady Liberty, like the blind Justice? Like Justice holding the scales? [JACK: Mmm!] Except it’s an eagle head and… it’s holding in one- it has two hands, one hand is holding- what are they? What are the two things?
 
 
 KEITH: There could be- instead of the scale that balances, it’s just weighing stuff.
@@ -1590,7 +1590,7 @@ AUSTIN: Like a- what’s a good symbol- it’s a feather on the high side, what�
 JACK: [sighs] I mean- it’s lead right? But…
 
 
-AUSTIN: Yeah, so like little balls, basically? Stacked up into a pyramid or something? Or like a brick?
+AUSTIN: Yeah, so like little lead balls, basically? Stacked up into a pyramid or something? [pause] Or like a brick?
 
 
 KEITH: [crosstalk] What, like pea sized? Cannonball sized? Or…
@@ -1626,7 +1626,7 @@ JACK: I think I just, like, I think I just sort of pull Heard aside and say-
         KEITH [as Robber]: Yeah, of course.
 
 
-JACK [as Florence]: I think we should divide and conquer. We both go in there and say we’re from the Concern, they’ll think we’re strong-arming them. That’s not what either of us want- Well, I mean, that is what we want, but we don’t want them to think that.
+JACK [as Florence]: I think we should divide and conquer. We go in there and say we’re from the Concern, they’ll think we’re strong-arming them. That’s not what either of us want- Well, I mean, that is what we want, but we don’t want them to think that.
 
 
 KEITH [as Robber]: Good point. I think we should stick together and not to tell them we’re from the Concern.
@@ -1659,7 +1659,7 @@ JACK: I’m being like, retroactively tripped up, it’s great.
 KEITH [as Robber]: The good thing about being members of the Concern is that we’re not members of the Concern, we’re members of the Cultural Trust.
 
 
-JACK: [sputters, laughs] Florence just has this like- Florence has the expression I just did? [Austin laughs] Which is like, blank misunderstanding?
+JACK: [sputters, laughs] Florence just has this like- Florence has the expression I just did? [Austin laughs] Which is kind of like, blank misunderstanding?
 
 
 AUSTIN: [laughing] Oh, my God! I mean, you do have documents.
@@ -1680,7 +1680,7 @@ JACK: What, we’re gonna just- this is me- okay.
 [Jack quietly laughing in bg]
 
 
-KEITH [as Robber]: And think of it this way, two people impersonating at the same time? We’re much stronger than one person impersonating separately.
+KEITH [as Robber]: And think of it this way, two people impersonating at the same time? That’s much stronger than one person impersonating separately.
 JACK: [overlapping] Florence is like, perfectly bad at pretending.
 
 
@@ -1702,7 +1702,7 @@ KEITH: Oh, okay.
 AUSTIN: You just both roll.
 
 
-KEITH: I don’t think that we’re trying to aid each other. I think we have opposite agendas here.
+KEITH: I don’t think that we’re trying to aid each other. I think we have total opposite agendas here.
 
 
 AUSTIN: [crosstalk] No, no- Oh, you do- I’m just saying if you wanted to aid each other, you just both roll! And if one of you succeeds, you succeed, but both of your heart rates go up, and if you fail, static still goes up.
@@ -1720,13 +1720,13 @@ JACK: Yeah, that’s really fun.
 KEITH: But that doesn’t add anything, it just gives you two chances?
 
 
-AUSTIN: [laughs] It gives you two chances!
+AUSTIN: [laughs] It just gives you two chances!
 
 
 KEITH: That sucks. 
 
 
-AUSTIN: [still laughing] It sucks, it’s terrible. But it seems like it would make sense in this system. I’m sorry, continue.
+AUSTIN: [still laughing] It sucks, it’s terrible. But it seems like it would make sense in this system as I’m understanding it. I’m sorry, continue.
 
 
 KEITH: Because that’s just the same thing as one person rolling twice.
@@ -1840,7 +1840,7 @@ AUSTIN Yep. Yep. Okay… [sighs] Give me an instinct roll.
 KEITH: Roll… let’s go four…
 
 
-AUSTIN You’re still in.
+AUSTIN: Yeah, you’re still in.
 
 
 KEITH: Yeah, I’m still in. [beat] Thirteen.
@@ -1855,13 +1855,13 @@ AUSTIN/KEITH: 141.
 KEITH: Yeah
 
 
-AUSTIN So you are up to- your last, you have one more before you go over… The receptionist looks up to you, and they’re like- ah- 
+AUSTIN: So you are up to- your last, you have one more before you go over… The receptionist looks up to you, and they’re like- ah- 
 
 
 AUSTIN [as Receptionist]: The Main Office, ah- yeah we- I guess we expected a couple people… Yeah, everyone’s upstairs, you can go head up. [sighs] Is this your-
 
 
-AUSTIN Points at Florence
+AUSTIN: Points at Florence
 
 
         AUSTIN [as Receptionist]: You… together?
@@ -1903,7 +1903,7 @@ JACK: [crosstalk] No, I’m… yeah.
 AUSTIN She would have broken away from you, it will be disregarding an order.
 
 
-JACK: Yeah- yeah, yeah. [pause, crosstalk] It’s like a vampire thing, you need to be specific-
+JACK: Yeah- yeah, yeah. [pause, crosstalk] It’s like a vampire thing, you’re being specific-
 
 
 AUSTIN [crosstalk] So does that happen, or do you… [trails off]
@@ -2003,7 +2003,7 @@ KEITH: Yeah, anybody besides us has these, then society would crumble.
 
 
 --01;01;35--
-AUSTIN: So you walk past that- you walk past a row of um, you know, materials- you walk past that, and there’s someone who, you know, would have to like check materials, you file a form or whatever- you walk past that. And then yeah, there’s just a personnel room, there’s just an information room that is row after row after row of file cabinet filled with, ah, information and stuff. Who wants- you’re allowed in, you go in there- there’s gonna be someone else who’s looking at stuff, someone else reading- there’s gonna be like, little reading nooks and stuff? Little cubbies? But like, nooks is right. People looking over tiny little files with a magnifying glasses and there’s definitely a microfiche- reader in this room, and it’s just like- so cramped, and hot in here. They’ve turned the heat on, and they don’t get to do that ever, so there’s just like these long- one whole wall of this is a baseboard radiator with is just like, blaring heat and cannot be good for anything in there. [pause] Give me- give me a roll, I think- I think this- Mm- it’s Instinct. Because Instinct includes Investigation, which is what this is.
+AUSTIN: So you walk past that- you walk past a row of um, you know, materials- you walk past that, and there’s someone who, you know, would have to like check materials, you file a form or whatever- you walk past that. And then yeah, there’s just a personnel room, there’s just an information room that is row after row after row of file cabinet filled with, you know, information and stuff. Who wants- you’re allowed in, you go in there- there’s gonna be someone else who’s looking at stuff, someone else reading- there’s gonna be like, little reading nooks and stuff? Little cubbies? But like, nooks is right. People at tiny desks looking over tiny little files with a magnifying glasses and there’s definitely a microfiche- reader in this room, and it’s just like- so cramped, and hot in here. They’ve turned the heat on, and they don’t get to do that ever, so there’s just like these long- one whole wall of this is a baseboard radiator with is just like, blaring heat which, cannot be good for anything in there. [pause] Give me- give me a roll, I think- I think this- Mm- it’s Instinct. Because Instinct includes Investigation, which is what this is.
 
 
 KEITH: Ah- I got the last one. 
@@ -2036,7 +2036,7 @@ AUSTIN: Yeah, I think- I think, if that’s what you want to do, then yes. Give 
 JACK: This is Instinct?
 
 
-AUSTIN: Yeah, and as many dice as you want, as you’re still in your target zone. You’re at 114, and your cap is at 127. 
+AUSTIN: Yeah, and as many dice as you want, as you’re still in your zone. You’re at 114, and your cap is at 127. 
 
 
 JACK: Okay. 
@@ -2108,7 +2108,7 @@ KEITH: [crosstalk] Before- before Jack had an idea of what to do, and like, sear
 [all laugh]
 
 
-AUSTIN: [laughing] That’s really good! So I think the thing that’s happening- so the thing’s a mess, it is not- like, Director, Actor, Producer, Executive Producer- but there’s also alphabetical, it’s also by season [JACK, laughing: Oh God], it’s also by genre, like Western, you know- uh- Drama, War film, right? There’s a lot of weird cross-categorisation, so two things happen for you. Florence, one is that you find Hector Hu’s file. And then two is- you see at the bottom of his file, it says “For additional: Correspond with the Blake Blossom file”. 
+AUSTIN: [laughing] That’s really good! So I think the thing that’s happening- so the it is a mess, it is not- like, Director, Actor, Producer, Executive Producer- but there’s also alphabetical, it’s also by season [JACK, laughing: Oh God], it’s also by genre, Western, you know- uh- Drama, War film, right? There’s a lot of weird cross-categorisation, so two things happen for you. Florence, one is that you find Hector Hu’s file. And then two is- you see at the bottom of his file, it says “For additional: Correspond with the Blake Blossom file”. 
 
 
 JACK: [laughing] Oh, cool! This is- [trails off, pauses]
@@ -2177,7 +2177,7 @@ AUSTIN: So I’m just gonna add that there… to the map… as a bunch of redact
 KEITH: Yeah, I am, I am.
 
 
-AUSTIN: Alright, you give me a roll on that then- give me a roll- that would be an Access roll also.
+AUSTIN: Alright, you give me a roll on that then- give me a roll- that would be an- also- an Access roll.
 
 
 KEITH: Got it. This is- this is my last one, right?
@@ -2222,13 +2222,13 @@ KEITH: [muttering] 159…
 01;07;38 - 01;16;46
 
 
-AUSTIN: So, [deep breath] we get the two of you in your cubbies looking at files over- and this is the thing, it has to be more than just, you’re looking at a single file. There are like- oh, here’s the dossier on Hector Hu and stuff, but there’s a lot of cross-reference, and the cross-reference are not meant to make things easy. So it’s specifically like- you get something on Hector, Florence, or it’s like yeah, it’s like check the thing on Blake Blossom- but it’s also like, check the file on the- on this specific scene on this specific movie, that has been annotated thirty times, and like one of the annotations is like ‘Oh, you can briefly hear Hector Hu coughing off-screen’, right? And here’s the big picture that you place together, Florence is- that Hector Hu was collaborating with Blake Blossom, as creatives, as filmmakers.
+AUSTIN: So, [deep breath] we get the two of you in your cubbies looking at files over- and this is the thing, it has to be more than just, you’re looking at a single file. There are like- oh, here’s the dossier on Hector Hu and stuff, but there’s a lot of cross-reference, and the cross-reference are not meant to make things easy. So it’s like- you get something on Hector, Florence, or it’s like yeah, it’s like check the thing on Blake Blossom- but it’s also like, check the file on the- on this specific scene in this specific movie, that has been annotated thirty times, and like one of the annotations is like ‘Oh, you can briefly hear Hector Hu coughing… off-screen’, right? And here’s the big picture that you place together, Florence is- that Hector Hu was collaborating with Blake Blossom, as creatives, as filmmakers.
 
 
 JACK: Mm.
 
 
-AUSTIN: I mean, I think you put it together pretty cleanly, even- which is… shoooo I’ll put this big line down here, the Blossom tape is a collaboration between Hector Hu and Blake Blossom.
+AUSTIN: I mean, I think you put it together pretty cleanly, even- which is that… shoooo I’ll put this big long line down here, the Blossom tape is a collaboration between Hector Hu and Blake Blossom.
 
 
 JACK: [sharp intake of breath] Right.
@@ -2255,9 +2255,9 @@ KEITH: [crosstalk] You wrote “Killed”, okay.
 -- 01;09;10 --
 AUSTIN: [crosstalk] Sorry, yeah, I was re- I was rewriting it [Keith laughs]. Okay. [pause] 
 There we go. So, you get- what do you get, Keith? I think you get some things- one, Florence, you get that Hector Hu- actually, no, you know what? I think what… what Heard gets is that Blake Blossom shows up, about a year ago- maybe a little more than that- I forget what I said at the top of the game- and begins to, very quickly- too quickly, starts making films. Was probably working with someone who was established, something you already knew in that sense? [KEITH: Okay] 
-In that the… the Cultural Trust believes that it is someone connected to the group known as the Concern, who is providing funding and providing expertise. And that the Cultural Trust believes that this is something dangerous, and there’s a- an instance where at a smaller showing of one of Blake Blossom’s films, two things- wait, Blake Blossom starts showing his films privately in local- not just movie houses, but in like, people’s houses, in bars, in parks. Begins projecting his stuff onto buildings with approval, which they believe- was- they believe, and I’m gonna draw another long connection here, they believe was also the work of Gale Green, who was- ah, I drew that wrong- who was a- a well-established... ah-
-You know what I’m gonna do? I’m gonna move this all this shit around so that Hector is in between two of them- it’s easier that way- ah. Basically, Hector, Gale, and Blake are all collaborating on the production of weird, experimental films. Some of which have to do with- a lot of which have to do with nature, which we already talked about, which is bad because it convinces people that they should not just be bulldozing everything. But also that have to do with something deeper, and more ideological. The Cultural Trust thinks that they are attempting to shift people against the Cultural Trust, against the proprietary and respectful nature of culture here- people should know their places, et cetera… so Gale, Blake, and Hector are all working together, and I think that basically- you get the Blake-Gale connection, Heard. And Florence, you get the Hector-Blake connection. And they’re both- there’s the emptiness in the map between the two of you, you know what I mean? So, if you’re focusing on the Hector side, it’s like oh- they also had another skilled filmmaker who also- who was also deep in the organisational side of all of this stuff, who could set up projections, who set up private showings, and who had the resources to protect Blake and Hector from this stuff. 
-And then, you get the big thing- which is that the Blossom tape is the magnum opus. And they had been privately spreading around that this was going to change the way everyone thinks about the city, what everyone thinks about this place, and convince people to leave. It was specifically about getting people to flee the city. Or change it in such a dramatic way that it would become completely unrecognisable and the Cultural Trust would be undercut.
+In that the… the Cultural Trust believes that it is someone connected to the group known as the Concern, who is providing funding, and providing expertise. And that the Cultural Trust believes that this stuff is dangerous, and there’s a- an instance where at a smaller showing of one of Blake Blossom’s films, two things- wait, Blake Blossom starts showing his films privately in local- not just movie houses, but in like, people’s houses, in bars, in parks. Begins projecting his stuff onto buildings without approval, which they believe- was- they believe, and I’m gonna draw another long connection here, they believe was also the work of Gale Green, who was- ah, I drew that wrong- who was a- a well-established... ah-
+You know what I’m gonna do? I’m gonna move this all this shit around so that Hector is in between two of them- it’s easier that way- ah. That Hector- basically, Hector, Gale, and Blake are all collaborating on the production of weird, experimental films. Some of which have to do with- a lot of which have to do with nature, which we already talked about, which is bad because it convinces people that they should not just be bulldozing everything. But also that have to do with something deeper, and more ideological. The Cultural Trust thinks that they are attempting to shift people against the Cultural Trust, against the kind of, proprietary and respectful nature of culture here- people should know their places, et cetera… so Gale, Blake, and Hector are all working together, and I think that basically- you get the Blake-Gale connection, Heard. And Florence, you get the Hector-Blake connection. And they’re both- there’s the emptiness in the map between the two of you, you know what I mean? So, if you’re focusing on the Hector side, it’s like oh- they also had another skilled filmmaker who also- who was also deep in the organisational side of all of this stuff, who could set up projections, who set up private showings, and who had the resources to protect Blake and Hector from this stuff. 
+And then, you get the big thing- which is that the Blossom tape is their magnum opus. And they had been privately spreading around that this was going to totally change the way everyone thinks about the city, what everyone thinks about this place, and convince people to leave. It was specifically about getting people to flee the city. Or change it in such a dramatic way that it would become completely unrecognisable and the Cultural Trust would be utterly undercut.
 
 
 --01;12;49--
@@ -2273,7 +2273,7 @@ KEITH: Right, so I still got that they were trying to get people to leave?
 AUSTIN: Yeah, definitely, definitely.
 
 
-KEITH: Alright. I don’t know, but that sounds- that sounds kinda- no, it doesn’t. I was gonna say that it sounds like an okay thing for- for the Bluff Concern.
+KEITH: Alright. I don’t know, but that sounds- that sounds kinda- I guess, no, it doesn’t. I was gonna say that it sounds like an okay thing for- for the Bluff Concern.
 
 
 AUSTIN: Totally
@@ -2315,7 +2315,7 @@ AUSTIN: But they’re also not pro-Concern, right?
 KEITH: Right, yes, right. Heard is.
 
 
-AUSTIN: [crosstalk] They- Heard is, right now, 100%. These are all people who are like, we can’t just do this by killing people [laughs]. And, like… you know, black helicopter-ing people, and positioning ourselves as like, the- the people in great deals of power, we have to do this in a cultural sense. We have to make major changes to how we operate and what these people believe, right?
+AUSTIN: [crosstalk] They- Heard is, right now, 100%. These are all people who are like, we can’t just do this by killing people [laughs]. And, like… you know, black helicopter-ing people, and positioning ourselves as like, the- the people in great deals of power, we have to do this in a cultural sense. We have to make major changes to how these places operate and what these people believe, right?
 
 
 KEITH: Yeah. I just mean, my specific motivation as like-
@@ -2369,7 +2369,7 @@ JACK: Noooo way.
 [Austin laughs]
 
 
-AUSTIN: Alright. So… I have ten hits, and you immediately above you, on the roof, you start hearing the sound of just like… Like, it sounds like someone is shooting outside, at first? But it isn’t. It’s that the snow has changed, to hail. And huge, fist-sized balls of hail start slamming into- into Blough City, all across the city. But they’re not- a couple of things, the parade is still going, and the hail isn’t breaking the balloons. Floats are protecting the people underneath, and the parade has gotten even louder. You can hear the sound of the horns outside, as the hail begins to like, completely drop down.
+AUSTIN: Alright. So… I have ten hits, and you immediately above you, on the roof, you start hearing the sound of just like… Like, it sounds like someone is shooting outside, at first? But it isn’t. It’s that the snow has changed, to hail. And huge, fist-sized balls of hail start slamming into- into Blough City, all across the city. But they’re not- a couple of things, the parade is still going, and the hail isn’t breaking the balloons. The floats are protecting the people underneath, and the parade has gotten even louder. You can hear the sound of the horns outside, as the hail begins to like, completely drop down.
 
 
 KEITH: Balls of hail collecting on the- balloons are now moving closer to the street.
@@ -2447,7 +2447,7 @@ KEITH: [imitating Maggie] There’s place we can hit you that won’t do lasting
 ALI: I- [stops]
 
 
-AUSTIN: No, go ahead
+AUSTIN: Yeah, go ahead
 
 
 ALI: No, you go on. 
@@ -2468,7 +2468,7 @@ ALI: I’ll just say it now, before this scene is over. I don’t know if I have
 AUSTIN: Mm-hm
 
 
-ALI: But I was also offered a job under duress. I was wondering if I could make him the same offer, which is like-
+ALI: But like, I was also offered a job under duress. I was wondering if I could make him the same offer, which is like-
 
 
 AUSTIN: [deep breath] So I think you would have to get it approved. That would be an Access roll.
@@ -2490,7 +2490,7 @@ AUSTIN: Yeah
 ALI: [crosstalk] it’s like… [trails off]
 
 
-AUSTIN: And it’s like, writing this conversation about how to fake beat him up? [Ali laughs]
+AUSTIN: I love this idea of like- and it’s like, writing this conversation about how to fake beat him up? [Ali laughs] I think he’s like-
 
 
 01;19;36 - 01;26;58
@@ -2499,7 +2499,7 @@ AUSTIN: And it’s like, writing this conversation about how to fake beat him up
 AUSTIN [as Achilles]: You can’t just… I… I am the heavyweight champion, you can’t just hit me in the knees a few times.
 
 
-JANINE [as Maggie]: Yeah, but they don’t bring tire irons into the ring- so, you know, there’s stuff that you wouldn’t be reasonably considered to hold your own against. [AUSTIN [as Achilles]: No, I’m-] And then we maybe just put you in the trunk of the Coup- and then like, give you a whistle or something, so you can get someone’s attention when it’s good- you know- after a few minutes have passed.
+JANINE [as Maggie]: Yeah, but they don’t bring tire irons into the ring- so, you know, there’s stuff that you wouldn’t be reasonably expected to hold your own against. [AUSTIN [as Achilles]: No, I’m-] And then we maybe just put you in the trunk of the Coup- and then like, give you a whistle or something, so you can get someone’s attention when it’s good- you know- after a few minutes have passed.
 
 
 [beat]
@@ -2571,7 +2571,7 @@ AUSTIN: The bartender is just staring at you [Janine laughs] as you’re describ
         AUSTIN [as Achilles]: Plus, we’re talking about weird shit, so…
 
 
-ALI: I mean, that’s the point at which this letter gets slid across the table, and at this point it’s like-
+ALI: I think, that’s the point at which this letter gets slid across the table, and at this point it’s like-
 
 
 ALI [as Chris]: I’m sorry to make you more conflicted, but I think that that’s a good thing to see. You’re a talented person, and shouldn’t be wasting it stealing cars. If you wanna get out of here, I can work on that. If you want bigger things, I can work on that too.
@@ -2583,10 +2583,10 @@ AUSTIN: Cool. [Ali laughs] He sees that and he’s like-
         AUSTIN [as Achilles]: Alright, let’s do it.
 
 
-AUSTIN: And… he tells you, so, we get the slow cuts. Or like, you all stands up, and it cuts to you leaving the building- then it cuts to you on the street, and then it’s the exact same angle- side angle shot, like- full bodies walking from left to right, and when you hit the edge of the frame it cuts. And it does that three or four times in the- in the parking garage, then you’re on the ramp going up, and then finally you’re at the Coup. You’re at the Teardrop. And he says, like-
+AUSTIN: And… he tells you, I think, so, we get the slow cuts. Or like, you all stands up, and it cuts to you leaving the building- then it cuts to you on the street, and then it’s the exact same angle- side angle shot, like- full bodies walking from left to right, and when you get the edge of the frame it cuts. And it does that three or four times in the- in the parking garage, then you’re one of the ramp going up, and then finally you’re at the Coup. You’re at the Teardrop. And he says, like-
 
 
-AUSTIN [as Achilles]: Put me in here. I can blow the whistle. And I’ll be able to say yes to everything that they say. [beat] A tire iron? That’s what we’re doing.
+AUSTIN [as Achilles]: Put me in here. I can blow the whistle. And I’ll be able to say yes to everything that they say. [beat] Yeah- a tire iron? That’s what we’re doing.
 
 
 ALI [as Chris]: [quietly] Mm.
@@ -2622,13 +2622,13 @@ AUSTIN: [crosstalk] It wasn’t gonna be a half hour, it was gonna be put him in
 KEITH: I mean, is it worth a few days in a trunk to get out of Blough?
 
 
-AUSTIN: That’s the other thing- could you just hide him for the next few days- what I will say is like, if that vi- if this film airs, if the Whitakers find out that the film is out there, they will know that he got it for them, and that he gave it away. Or they will believe that, and they are organised crime, and that is bad. This is Blough City. This is not the Veranda family.
+AUSTIN: That’s the other thing- could you just hide him now, for the next few days- what I will say is like, if that vi- if this film airs, if the Whitakers find out that the film is out there, they will know that he got it for them, and that he gave it away. Or they will believe that, and they are organised crime, and that is bad. This is Blough City. This is not the Veranda family.
 
 
 KEITH: So Austin, what you’re saying is that the promise of extraction is making it worth it to take the risk of getting, of pretending to get beat up?
 
 
-AUSTIN: No- the other thing convinced him that it is a good thing to do, and that he would follow whatever their pitch is for keeping him safe. So… but, like, you have to keep him safe. Like yeah, if you beat him up and take it from him, then he at least has a bit of a window where he can be like “Yeah, I had it for you, but they beat me up and took it”. And then… some other time, later down the road- near-future, far future, whenever it is- you can get him out out. That seemed to be-
+AUSTIN: I mean- the other thing convinced him that it is a good thing to do, and that he would follow whatever their pitch is for keeping him safe. So… but, like, you have to keep him safe. Like yeah, if you beat him up and take it from him, then he at least has a bit of a window where he can be like “Yeah, I had it for you, but they beat me up and took it”. And then… some other time, later down the road- near-future, far future, whenever it is- you can get him out out. That seemed to be-
 
 
 JANINE: [crosstalk] I don’t understand why it would buy him any time at all, if not like…
@@ -2640,7 +2640,7 @@ AUSTIN: Because he could say that you beat him up, or someone beat him up, and-
 JANINE: And then the Whitakers believe it for three days? And then decide not to?
 
 
-AUSTIN: For a few days, sure. Until they could go look into it.
+AUSTIN: For a few days, sure. But they would go look into it.
 
 
 ALI: [crosstalk] Well, we could tell them that he went missing, right?
@@ -2661,7 +2661,7 @@ KEITH: Yeah
 AUSTIN: Like, you met him in a public place.
 
 
-KEITH: And, it totally makes sense, like now that I’m thinking about it- if they knew it was him, and then went looking for him and couldn’t find him, that then they would up the search. Which would be bad for everybody.
+KEITH: And, it totally makes sense, like now that I’m thinking about it- if they knew it was him, and then went looking for him and couldn’t find him, that then they would really up the search. Which would be bad for everybody.
 
 
 AUSTIN: Or they could- or you could roll the dice, right? Like, if this goes out today, then if he doesn’t- if he doesn’t have an alibi for today, that’s trouble. For him. Or, you could try to find a place- that’s reasonable. You could make that call today and say ‘Hey, could we have a safehouse for today?’ and try to keep him… safe, until then. Like, short term witness protection type stuff, basically?
@@ -2745,7 +2745,7 @@ JANINE: Yeah
 ALI: Yeah, I have the Caller thing, I’ll… is that…
 
 
-AUSTIN: That’s probably Instinct, that’s not Access, right? You’re convincing someone of something. It’s risky, it’s risky for Finnegan to do this, right? Jack, do you remember how Finnegan sounds?
+AUSTIN: That’s probably Instinct, that’s not Access, right? You’re convincing someone of something. It’s risky, and it is risky for Finnegan to do this, right? Jack, do you remember how Finnegan sounds?
 
 
 JACK: Man! My- my abiding memory of Finnegan is him at the end, but I remember him being like- he wants to help, he- he’s- Oh! Finnegan’s like… his whole thing was like, the colossal misunderstanding of the plan, right? [laughs]
@@ -2854,13 +2854,13 @@ ALI: And she looks at Apollo and like, shrugs.
 JACK [as Finnegan]: Oh… yeah, I mean, I’m always gonna be there for a friend of Apollo’s… what can I do for you? I can’t talk for very long, I’m sorry, but you know it’s a busy- a busy day. Have you seen outside?
 
 
-ALI [as Chris]: Oh, that’s fine, I- [laughs nervously] Um… love a parade! Um… it’s about Apollo, actually. I’m trying to protect him, and I need the help of a… a resident.
+ALI [as Chris]: Oh, that’s fine, I- [laughs nervously] Um… love a parade! Um… it’s about Apollo, actually. I’m trying to protect him, and I need the help of a… a, um resident.
 
 
 JACK [as Finnegan]: Oh? Oh, you want me to do a solid for… Mr Achilles?
 
 
-ALI [as Chris]: A solid, yeah. Two solids.
+ALI [as Chris]: A solid, yeah. Like, two solids.
 
 
 JACK [as Finnegan]: Okay
@@ -3022,19 +3022,19 @@ AUSTIN: There’s a degree to which… so he hands you the tape, and you feel it
 JANINE: So there’s a bug in it?
 
 
-AUSTIN: I wanna underline the larval sense of a jumping bean, so like a bug.
+AUSTIN: I wanna underline the larval sense of a jumping bean, like a bug.
 
 
 JANINE: Eugh
 
 
-AUSTIN: But it’s in a little… cup or container, like in a film reel, or a can. It’s small, it was shot on, like… it’s pre-Super 8, but it’s 8mm. It’s like a camera somewhere between an original 8mm and a Super 8. I have a specific one in mind with an image that I will link you too, because it’s a cool fucking camera… I have a cool fucking gun and a cool fucking camera. [laughs] Because that’s… that’s Bluff City [Ali laughs]. I linked- I almost linked it in our fan discord, for a second. Ah- is this… little handheld camera that has a little- a little handle, like a briefcase you carry around?
+AUSTIN: But it’s in a little… cup or container, like in a film reel, or a can. It’s small, it was shot on, like… it’s pre-Super 8, but it’s 8mm. It’s like a camera somewhere between an original 8mm and a Super 8. I have a specific one in mind with an image that I will link you too, because it’s a cool fucking camera… I have a cool gun and a cool camera. [laughs] Because that’s… that’s Bluff City [Ali laughs]. I linked- I almost linked it in our fan discord, for a second. Ah- is this… little handheld camera that has a little- a little handle, like a briefcase you carry around?
 
 
 ALI: Ahh!
 
 
-AUSTIN: It’s very cool. But the film is not that… it’s in a little film canister. And whilst we’re at it, the pistol is a- it’s like a little box? Um… silencer, or something? It’s a Russian- it’s a silencer with a revolver on it, and that was the pistol that you got. But not like a long- not like a long silencer, but a tiny cylindrical little boxy thing that goes on the end of the gun barrel that goes underneath, so that it expresses the gas that reduces the sound- it’s a real weird looking thing. Anyway… Props. Trust people - you have all this info, it’s hailing, the parade is bigger than ever. You step back outside, I guess. What do you do?
+AUSTIN: It’s very cool. But the film is not that… it’s in a little film reel canister. And whilst we’re at it, the pistol is a- it’s like a little box? Um… silencer, or something? It’s a Russian- it’s a revolver with a  silencer on it, and that was the pistol that you got. But not like a long- not like a long silencer, but a tiny cylindrical little boxy thing that goes on the end of the gun barrel that goes underneath, so that it expresses the gas that reduces the sound- it’s a real weird looking thing. Anyway… Props. Trust people - you have all this info, it’s hailing, the parade is bigger than ever. You step back outside, I guess. What do you do?
 
 
 --01;36;17--
@@ -3056,7 +3056,7 @@ JACK: So do we contact- I mean maybe we’ve done it already.
 AUSTIN: Yeah
 
 
-JACK: Maybe we’ve split like- alright, if these wrong, let’s just [AUSTIN: Meet- back at-] meet back at the festival.
+JACK: Maybe we’ve split like- alright, if these wrong, let’s just [AUSTIN: Meet- back at-] if this runs long, meet back at the festival.
 
 
 AUSTIN: At the Citywide Film Festival, at the Courtyard- yeah. And by the time you get there, people are starting to arrive. You know, it’ll start soonish? But… you’re- you’re allowed to get back in, you’ve already done the work at the beginning of the game to establish that you’re allowed to go to Gale Green’s office, so they’re not gonna stop you again.
@@ -3065,13 +3065,13 @@ AUSTIN: At the Citywide Film Festival, at the Courtyard- yeah. And by the time y
 JACK: Are they like- are folks like, arriving in the hail? [AUSTIN: Oh yeah] Like, stepping out of their fancy cars with people holding [AUSTIN: Umbrellas] umbrellas over them and like… hail hissing off the streets.
 
 
-AUSTIN: Totally, and they’ve put up… they’ve put up a bunch of like- a bunch of things over the projection screen to keep it safe. It’s like a- like a clamshell stage, that has a roof already? It’s like open- open to the park, but it has a clamshell cover basically. And people are sitting down already in their fancy formalwear, and it’s all holding umbrellas. There’s just this shot of you getting out of your cars, and it’s almost behind you, like a close third-person camera or something? Just a little shakier than that… and you walk in, turn and just see this entire park full of people seated outside in the sunset, holding umbrellas as hail bounces off of it. It’s basically one or two people for every- for every three or four seats because the umbrellas are taking up so much space. Like- I don’t even know how they’re even going to see the screen like this! It’s just like, this very upsetting, strange image. And also, Christmas music playing from the parade, which is like- you’re in the park, you’re outdoors, you can still see these floats everywhere. And I think… one of you… Chris and Florence, you see something- you catch your breath for a second, because you see a symbol that is confusing at first? There is an infinity symbol on one of these floats.
+AUSTIN: Totally, and they’ve put up… they’ve put up a bunch of like- a bunch of things over the projection screen to keep it safe. It’s like a- like a clamshell-style stage, that has a roof already? It’s like open- open to the park, but it has a clamshell cover basically. And people are lining up and sitting down already in their fancy formalwear, and they’re all holding umbrellas. There’s just this shot of you getting out of your cars, and it’s almost behind you, like a close third-person camera or something? Just a little shakier than that… and you walk in, turn and just see this entire park full of people seated outside in the sunset, holding umbrellas as hail bounces off of it. It’s basically one or two people for every- for every three or four seats because the umbrellas are taking up so much space. Like- I don’t even know how they’re even going to see the screen like this! It’s just like, this very upsetting, strange image. And also, Christmas music playing from the parade, which is like- if you’re in the park, you’re outdoors, you can still see these floats everywhere. And I think… one of you… Chris and Florence, you see something- you catch your breath for a second, because you see a symbol that is confusing at first? There is an infinity symbol on one of these floats.
 
 
 ALI: [gasps]
 
 
-AUSTIN: And… it is not infinite love, it is something else. And someone bumps- bumps into you, as you’re getting out of the car, and says to you, like
+AUSTIN: And… it is not infinite love, it is something else. And someone like, bumps- bumps into you, as you’re getting out of the car, and says to you, like
 
 
         AU/UN: You should join up! It’s- it’s time for the Endless Jubilee!
@@ -3095,7 +3095,7 @@ AUSTIN: For- for all the past, for the old days- shall we move on, basically-
 JACK: For old times’ sake
 
 
-AUSTIN: For old times’ sake, yeah- yeah yeah. Shall we- old time- so that’s what’s being sung here, extremely early because it’s not even the holiday here, yet. What do they call it- what do they call their Christmas- I don’t know if they call is Christmas, because it’s businessman pig-cow holiday.
+AUSTIN: For old times’ sake, yeah- yeah yeah. Shall we- celebrate old time- so that’s what’s being sung here, extremely early because it’s not even the holiday here, yet. What do they call it- what do they call their Christmas- I don’t know if they call is Christmas, because it’s businessman pig-cow holiday.
 
 
 JACK: [laughs] I assume there are other symbols. 
@@ -3234,7 +3234,7 @@ JACK: Yeah, I could see that.
 JANINE: Mm
 
 
-AUSTIN: Okay… Gale is in her office, getting things ready, you know. I think it’s like, practicing her speech, her welcoming speech, basically? And you can see [chuckles], the camera goes out- fourth version of the- fourth version of the, ah- the schedule, with Blake Blossom’s name crossed off the schedule, again? Because she didn’t have the keys to go get the car? And… you show up! And it’s Gale Green, aka Dorothy Delanser, aka Goldfinch. She is… she is what a su- what a beautiful woman superhero in the world of Blough City looks like, right? Which is this very mid-century image of perfection- of blonde hair and blue eyes, she is- she is that stereotype, right? And gets to be a good person, also. In a weird way. In the world of Bluff City, where we are very very conscious of making sure that we talk about marginalised identities, and queerness and- she’s- she’s queer, right? She’s a gay woman… and everything else, like also weirdly this woman wants to do right by  the world? She left this place as a little girl, and saw a better world… and decided to come back here, and make the place better. But is still confined by conceptions of beauty, and everything, and fights against them, but there she is, right now, working inside of the system. And… she is practicing her speech. And you open the door to her office, and… I think she immediately is like- is like-
+AUSTIN: Okay… Gale is in her office, getting things ready, you know. I think it’s like, practising her speech, her welcoming speech, basically? And you can see [chuckles], the camera shows- fourth version of the- fourth version of the, ah- the schedule, with Blake Blossom’s name crossed off the schedule, again? Because she didn’t have the keys to go get the car? And… you show up! And it’s Gale Green, aka Dorothy Delanser, aka Goldfinch. She is… she is what a su- what a beautiful woman superhero in the world of Blough City looks like, right? Which is this very mid-century image of perfection- of blonde hair and blue eyes, she is- she is that stereotype, right? And gets to be a good person, also. In a weird way. In the world of Bluff City, where we are very very conscious of making sure that we talk about marginalised identities, and queerness and- she’s- she’s queer, right? She’s a gay woman… and everything else, like also weirdly this woman wants to do right by  the world? She left this place as a little girl, and saw a better world… and decided to come back here, and make the place better. But is still confined by it’s conceptions of beauty, and everything, and fights against them, but there she is, right now, working inside of the system. And… she is practising her speech. And you open the door to her office, and… I think she immediately is like- is like-
 
 
 --01;46;24--
@@ -3379,7 +3379,7 @@ AUSTIN: Alright, gimme that- well, spend that Intuition
 ALI: [crosstalk] Can I spend mine to- yeah. To bring that to a ten.
 
 
-AUSTIN: [crosstalk] Make sure you- yeah. Make sure you both add the respective things- Sorry, Ali, you actually have to roll- roll 1d6.
+AUSTIN: [crosstalk] Make sure you- yeah. Make sure you both add the respective things- I mean you have to actually, sorry, Ali, you actually have to roll- roll 1d6.
 
 
 ALI: Oh, do I?
@@ -3427,7 +3427,7 @@ AUSTIN: [continuing] but it makes everything after that do Risky, after that fac
 ALI: Okay
 
 
-AUSTIN: [continuing] what Heard is doing is, I’m going to play chicken here? I’m going to push this further? If you agree, static continues to go up… so, in other words - Keith is saying ‘I want this to come out a different way’, or ‘I think Heard wants this to come out a different way’, is challenging you. If you say ‘No, fine, you win’, then the challenge ends. If you say, ‘Fuck that, I wanna win’, then… you’re both gonna roll again, and your stress is going to continue to go up, and static will go up by two. Maggie… wants to help here, and we need to figure out how the fuck that’s supposed to work. [Jack, Ali laugh] In fucking contested rolls… I think it is the same as before, as we said before- completely by my gut, there is no rule in the book we can look to help this? So… I think Maggie, you can step in to help here, but- if Chris fails, but I worry if this is just a race to the bottom, right? Or the top… of stress, or static. Which is fine? I’ll say… this could all could blow up in a fun way, and I am fine with that… but I don’t know if there is a rule, for like- that’s it, cut this conflict off, outside of social agreement, do you know what I mean? Like… there is no way to be like- I’ve won this so well that the other opposing agent decides to back down. There’s definitely- definitely a weird filibuster angle here. So, let’s start with where we’re at, which is - Heard has said ‘I’m challenging again’. Ryder?
+AUSTIN: [continuing] what Heard is doing is, I’m going to play chicken here? I’m going to push this further? If you agree, static continues to go up… so, in other words - Keith is saying ‘I want this to come out a different way’, or ‘I think Heard wants this to come out a different way’, is challenging you. If you say ‘No, fine, you win’, then the challenge ends. If you say, ‘Fuck that, I wanna win’, then… you’re both gonna roll again, and your stress is going to continue to go up, and static will go up by two. Maggie… wants to help here, and we need to figure out how the fuck that’s supposed to work. [Jack, Ali laugh] In contested rolls… I think it is the same as before, as we said before- completely by my gut, there is no rule in the book we can look to help this? So… I think Maggie, you can step in to help here, but- if Chris fails, but I worry if this is just a race to the bottom, right? Or the top… of stress, or static. Which is fine? I’ll say… this could all could blow up in a fun way, and I am fine with that… but I don’t know if there is a rule, for like- that’s it, cut this conflict off, outside of social agreement, do you know what I mean? Like… there is no way to be like- I’ve won this so well that the other opposing agent decides to back down. There’s definitely- definitely a weird filibuster angle here. So, let’s start with where we’re at, which is - Heard has said ‘I’m challenging again’. Ryder?
 
 
 01;51;30 - 01;55;55
@@ -3574,7 +3574,7 @@ AUSTIN: Okay, so we eject from the conflict because we think it is more interest
 KEITH: [crosstalk] See it- yeah
 
 
-AUSTIN: [continuing] happening, and you- you are a company man, to some degree, and you’re not going to accuse someone of it if you can’t see it. So, as a- as a player, we have to play this as Heard doesn’t know what happened yet.
+AUSTIN: [continuing] happening, and you- you are a company man, to some degree, and you’re not going to accuse someone of it if you can’t see it. So, as a- as a player, we have to play this as Heard doesn’t know this happened yet.
 
 
 KEITH: Mm-hm. 
@@ -3637,10 +3637,10 @@ AUSTIN: She says-
         AUSTIN [as Gale]: I have some great seats for you if you go to there-
 
 
-AUSTIN: She leads you- and remember, this is converted church, right? And she leads you up to the second floor of the church, and there is a balcony- on the outside, the church that has its own- they've put up a- not on the ceiling but there’s a temporary- a temporary roof, basically. That people here can sit on the balcony, and see the screen all without having the hail hit their heads. [beat] And she sets you up in some nice chairs- they’re like their chairs from the church, they’re like old Spanish colonial chairs [chuckles]. They look really rare... and valuable but here they are, and you're sitting on them... and the festival begins. 
+AUSTIN: She leads you- and remember, this is converted church, right? And she leads you up to the second floor of the church, and there is a balcony- on the outside, the church that has its own- they've put up a- not a the ceiling but there’s a temporary- a temporary roof, basically. That people here can sit on the balcony, and see the screen all without having the hail hit their heads. [beat] And she sets you up in some nice chairs- they’re like chairs from the church, they’re like old Spanish colonial chairs [chuckles]. They look really rare... and valuable but here they are, and you're sitting on them... and the festival begins. 
 And... it's a couple of other films, she goes out and gives us great speech about power of film and the power of cinema- this emerging art form which some people go- [gasps]- like the idea of an emerging art form is terrifying for them, right? She absolutely says ‘It's not just newsreels anymore’ in the tone of someone saying ‘Video games aren’t just Pac-Man anymore’ -  it's not just newsreels, or war films anymore…
 And, then she shows her own films- really quick thing, I just want to note - We also absolutely see a photo of- of Waxwing on the desk- of her partner from Bluff City, like the two of them together happy on her desk- she absolutely keeps a photo of the two of them there- it's an important note... 
-Anyway, she- but you know, she shows other filmmakers from the city here, and many of them are just weird movies, for you even from Bluff City, unless you happen to be a filmmaking buff there, or just like- here’s thirty minutes of traffic- of just, the traffic happening... one of them was film of the parade, today- and this is the quickest we can imagine turning around this film- we’re using  all sorts of new techniques to turn this around very quickly, you know. There's- there is stuff where- what you would think of 90s exploitation films, where there are like, queer themes that are like not thoroughly well explored-I would say it was problematic in a lot of ways… 
+Anyway, she- but you know, she shows other filmmakers from the city here, and many of them are just weird movies, for you even from Bluff City, unless you happen to be a filmmaking buff there, or just like- here’s thirty minutes of traffic- of just, the traffic happening... one of them was film of the parade, today- and this is the quickest we can imagine turning around this film- we’re using  all sorts of new techniques to turn this around very quickly, you know. There's- there is stuff where- what you would think of 90s exploitation films, where there are like, queer themes that are like not well explored-I would say it was problematic in a lot of ways… 
 But, it’s people struggling to make films about queerness, or about race, as best they can- sometimes it's ham-fisted, and sometimes it's- it's very broad, but you know- you can tell that, like all this- this is a film that is about, you know- this is a film for women to watch - to see women's bodies in a way that is sexualized, without it being for a male view, right? or a masculine viewer. 
 This- this is- a movie in which the skin tones of the characters of colour are well-developed, and are well lit, and are beautiful to see on the screen. Oh, this is- this is a film about the sexuality of- of, you know- of men, and- and is actually about it, and you know these films- this isn't, like just pornographic work - although I suspect a lot of these people have also done pornographic filmmaking, in this city... and I suspect that, like, that does well for them because fucking, the Cultural Trust would not like that at all, and people do. 
 And so there's a lot of experimental stuff happening here, and finally at the end, Gale Green comes up and says-
@@ -3667,7 +3667,7 @@ AUSTIN [as Gale]: And I’d like to give him the honour of st- you know, I’d l
 AUSTIN: And he like, hits the button on the projector. And… it is, the Blossom tape. It is a… a film- it is immediately entrancing. You are standing at the edge of the thicket, the wetlands that go off into the desert proper. And there is- there is a tunnel. And it is not… it is not attached to a mountain, the road just descends... into the ground out between the wetlands and the emerging desert, further into the east- basically. And the tunnel- the camera slowly walks into the tunnel, and then begins to pick up speed- and there’s some lighting in the tunnel, and then there’s, you know- more and more distance put between, behind and forward- and you can’t see anything, at a certain point, it just goes completely dark.
         And at this moment- up on- up on the balcony where the projector is, you can hear- one of you looks back and sees the film- it looks like bugs moving around a projection screen. It’s like you can see the hard, keitonous shells- it sounds like bugs moving through it, and it sounds like it on the projection screen too- and you can feel people getting tense, and scared, and it pushes further and further into the dark, and every now and again there’s a flicker of light and a movement of an object in the- in the dark, and then finally there is light at the end of the tunnel. The process of going through it takes twelve minutes, it’s long- and at a certain point, you realise you’re inside of a car, and the car is making strange, bug-like noises too? And finally you punch out at the end of the tunnel and it is-
         Footage of somewhere else. And… for everyone in the seats, everyone watching- it is somewhere beautiful, and different, and colourful- and there is a boombox playing, there is… the world can be like that? they think… there are people on the boardwalk laughing and smiling, and you know, cursing at each other? It is like, found footage style, of people at the beach, at a boardwalk with casinos, and- there are, you know, people laughing, and kids flirting, you know- and old parents who have come in from out of town to spend their money on vacation, the slot machines - there are the sounds of songs which these people have never heard before? And it’s grimy in this really intriguing way.
-        And for you all, you know immediately that this is not Bluff City. Sure, it’s bright and colourful, but you can tell when the cop looking at the couple holding hands and their hands break, because the cop doesn’t approve of relationships like theirs, that it’s not Bluff City. You can tell, based on the way that the trash is piling up on the corners- by the way the guy slumps on the side of the casino, and no-one comes to help him- you can tell, by the sound of the casinos raking in money… this is not Bluff City. This is a third place. And… the camera pans over and reveals, on the screen is Hector Hu. Who says-
+        And for you all, you know immediately that this is not Bluff City. Sure, it’s bright and colourful, but you can tell when the cop looking at the couple holding hands and their hands break, because the cop doesn’t approve of relationships like theirs, that it’s not Bluff City. You can tell, based on the way that the trash is piling up on the corners- by the way the guy slumps on the side of the casino and no-one comes to help him- you can tell, by the sound of the casinos raking in money… this is not Bluff City. This is a third place. And… the camera pans over and reveals, on the screen is Hector Hu. Who says-
 
 
 --02;04;56--
