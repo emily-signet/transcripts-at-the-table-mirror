@@ -2189,7 +2189,7 @@ JACK: Um, and I find this out through the expression on his face, and the way th
 AUSTIN: He was...such a happy father. He loved his kids and his wife. He was...he was torn his whole life about what his son should be. He didn't want his son following in his footsteps in one hand, because he knew what he did was dangerous work. He wasn't just a fisherman, he didn't just cast a net into the sea. He went after the big things. He went after the trophies. And he always say that in himself as a sort of a....he knew he was chasing a high his whole life, and he didn't want to see that in his son, but at the same time...his son was so proud of him that it was hard to keep his son away.
 JACK: Great. Cool. Well, I reckon that's- I reckon that's me.
 AUSTIN: Throndir. You find her. She is, as requested, she stayed in her place. Her place is a sty. Her place is like...not because it's- sorry. Not a sty. A sty is wrong. It's just bare, and so by bareness' sake, like clothes are on the floor because she doesn't have a place to put them but the floor. You know what I mean? She has a mat on the floor to sleep on. It is cold here. Which is fine for her, because she's a snow elf. But...for anybody else, it would just be...this is terrible. It's four floors up on an old abandoned house, or like old abandoned apartment complex. The building is barely standing. But it's hers, and no one will come take it from her because it's in such shitty shape. (DRE: Yeah.) You tell her to leave, and she does. She knows the snow, like you know the snow, and can slip away. Evading the patrols, just barely, but getting away. She says she'll head south, she'll go...she'll go to Velashina, the little village.
-Hadrian, Fero and Hella. The temple is filled at this point, still, with people. Warm, singing. Lucius is nowhere to be found. In the public areas. You....talk to some people that you know. Again Hadrian, you've been in this church for so long. In this temple for so, so long, that you know everybody here. They recognise you. A few of them are a little standoffish. They saw your confrontation with Lucius earlier, and...or they've heard that something happened. Buit you find someone who trusts you, and who remembers what you've done for them. In fact, I'll say that you find the woman who lead that halfling contingent who moved here at the very, very beginning of this game. And she tells you that Lucius was the one who went up to ring the eleven o'clock bell. So you climb the tower and you find him there. What do you do?
+Hadrian, Fero and Hella. The temple is filled at this point, still, with people. Warm, singing. Lucius is nowhere to be found. In the public areas. You....talk to some people that you know. Again Hadrian, you've been in this church for so long. In this temple for so, so long, that you know everybody here. They recognise you. A few of them are a little standoffish. They saw your confrontation with Lucius earlier, and...or they've heard that something happened. But you find someone who trusts you, and who remembers what you've done for them. In fact, I'll say that you find the woman who lead that halfling contingent who moved here at the very, very beginning of this game. And she tells you that Lucius was the one who went up to ring the eleven o'clock bell. So you climb the tower and you find him there. What do you do?
 ART: All three of us are up there?
 AUSTIN: All three of you are up there.
 KEITH: Mmhmm.
@@ -2197,12 +2197,12 @@ ART (as Hadrian): Lucius...it's...it's over. We...we know everything.
 AUSTIN (as Lucius): What do you know?
 ART (as Hadrian): I know-
 [PAUSE]
-KEITH (as Fero): Alright, so some of this stuff is a little bit foggy[a] [Everyone giggles] But like basically...so basically we know that you're working with the orcs.
+KEITH (as Fero): Alright, so some of this stuff is a little bit fuzzy. [Everyone giggles] But like basically...so basically we know that you're working with the orcs.
 AUSTIN: Whoa, whoa! Oh, Fero. Oh Fero.
 (overlapping)
 AUSTIN: Fero's so casual!
 ALI, laughing: This is- this is kind of a moment to uh…
-ART: Burying the lead, too.
+ART: Burying the lede, too.
 AUSTIN: Yeah.
 KEITH: Murdering was the first-
 KEITH (as Fero): We know you're working with the orcs, and you were both- you both wanted to get that fuckin book,
@@ -2331,7 +2331,7 @@ KEITH: Hold on, I-
 ART: Yeah, you – I’ll vote for giving up Mitta.
 JACK: You know, Austin.
 ART: I vote for giving up Mitta
-ART: Mitta- why is[b], she's gone. What do you care if they know she did it? She's gone.
+ART: Meta-wise, she's gone. What do you care if they know she did it? She's gone.
 KEITH, incredulous: Also, I wanna go back for a second! Art said 'I guess I'm the only one not okay with murder' - you fuckin snapped that dude's neck, you weirdo!
 AUSTIN: We'll get there! We'll get there!
 [overlapping protests]
@@ -2791,9 +2791,3 @@ JACK: Happy holidays, everybody!
 ALI: Yeah!
 AUSTIN: Happy holidays!
 [END]
-
-
-
-
-[a]fuzzy
-[b]Meta-wise
