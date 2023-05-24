@@ -805,7 +805,7 @@ AUSTIN: [laughs] You know, maybe they just should've left you on their fucking p
 JACK: Yep. [pause]  Lem is- Lem is… like, distraught? it's not clear whether or not he's making a sound, or the water in the canyon is...?
 
 
-AUSTIN: You are pulled under the water, and your head slams against a piece of brick from one of the chimneys that fell. [typing noises] take aix damage.
+AUSTIN: You are pulled under the water, and your head slams against a piece of brick from one of the chimneys that fell. [typing noises] take six damage.
 
 
 JACK: Okay…
@@ -1342,7 +1342,7 @@ AUSTIN: And she turns and looks at the pillar in the distance.
 AUSTIN (as Corsica): when a thing like that comes into being. Something is amiss.
 
 
-SYLVIA (as Ephrim): Sovereigness, when a thing like that comes into being, things suddenly become confusing for a lot of people, myself included. And I'll be honest, I have a lot more in common with some of the people that you have here in your encampment here than I do with the archivists. So forgive me for trying to have some resemblance of normality in my life, by talking to people who aren't obsessed with [stuttering] some bizzare pattern. I assure you that there's no I'll will or [pause] ulterior motive going on here, and I will leave if that's what you want me to do but... I promise I'm just trying to help people with the stress of having whatever going on in the west happen.
+SYLVIA (as Ephrim): Sovereigness, when a thing like that comes into being, things suddenly become confusing for a lot of people, myself included. And I'll be honest, I have a lot more in common with some of the people that you have here in your encampment here than I do with the archivists. So forgive me for trying to have some resemblance of normality in my life, by talking to people who aren't obsessed with [stuttering] some bizzare pattern. I assure you that there's no ill will or [pause] ulterior motive going on here, and I will leave if that's what you want me to do but... I promise I'm just trying to help people with the stress of having whatever going on in the west happen.
 
 
 AUSTIN: She pats the horses head and lifts one leg over the other, and stands eye to eye with you. You see the flesh around one of her eyes is rotted, gray. The other’s missing entirely, but again, most of her face is covered in that wrap. She pulls out her blade and sticks it in the ground, and leans in it. It's Ordennan steel.
@@ -1414,7 +1414,7 @@ SYLVIA (as Ephrim): Alright.
 SYLVIA: And, uh… [amused] I guess Ephrim goes to leave, but before he- right when he's walking away, he says
 
 
-SYLVIA (as Ephrim): I hope sooner rather than later, we can come to be more trusting of eachother.
+SYLVIA (as Ephrim): I hope sooner rather than later, we can come to be more trusting of each other.
 
 
 AUSTIN (as Corsica): Trust is an earned thing.
@@ -1675,7 +1675,7 @@ JACK (as Lem): [overlapping, exasperated] Then why write it on the list? Why wri
 AUSTIN (as Uklan): It's the pattern, King. Somethings happen or they don't. We move around it. We do our best. And when we do our best, and things line up just so, we do incredible things. Now watch the hill, and hope.
 
 
-AUSTIN: And… there's- the telescope is set up to look at the Granite Perish. There are a number of birds on it right now, but- y'know. A doden, fifteen, sixteen, something like that. I don't know if you're a bird watcher, I don't know how hard it is to count birds. [pause] Zhan kurr says
+AUSTIN: And… there's- the telescope is set up to look at the Granite Perish. There are a number of birds on it right now, but- y'know. A dozen, fifteen, sixteen, something like that. I don't know if you're a bird watcher, I don't know how hard it is to count birds. [pause] Zhan kurr says
 
 
 AUSTIN (as Zhan): Y'know, I could go there, we could uh… they don't have to be brown birds, they can be whatever birds, I mean…
