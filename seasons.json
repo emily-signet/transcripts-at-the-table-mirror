@@ -4039,7 +4039,33 @@
                 "title": "PALISADE 09: The Canvas of Dreams Pt. 4",
                 "slug": "palisade-09-the-canvas-of-dreams-pt-4",
                 "done": false,
-                "sorting_number": 8
+                "sorting_number": 8,
+                "docs_id": "1wPk2Q8_jF2t6Ap4F_wguXbKL5fYXMd8YE2yyZX4aJd4",
+                "download": {
+                    "plain": "palisade/palisade-09-the-canvas-of-dreams-pt-4.txt"
+                }
+            },
+            {
+                "title": "PALISADE 10: The Wheels Turning Pt. 1",
+                "slug": "palisade-10-the-wheels-turning-pt-1",
+                "done": false,
+                "sorting_number": 9,
+                "docs_id": "1xnyBlSPNEw03bomgpn1oRKzzLE-6LPnTNHILFKOfO1E",
+                "download": {
+                    "plain": "palisade/palisade-10-the-wheels-turning-pt-1.txt"
+                }
+            },
+            {
+                "title": "PALISADE 11: The Wheels Turning Pt. 2",
+                "slug": "palisade-11-the-wheels-turning-pt-2",
+                "done": false,
+                "sorting_number": 10
+            },
+            {
+                "title": "PALISADE 12: Worth the Trouble Pt. 1",
+                "slug": "palisade-12-worth-the-trouble-pt-1",
+                "done": false,
+                "sorting_number": 11
             }
         ]
     },
@@ -5417,7 +5443,11 @@
                 "title": "Live at the Table 55: Bluff City Zoo TWO! (Pt 1)",
                 "slug": "live-at-the-table-55-bluff-city-zoo-two-pt-1",
                 "done": false,
-                "sorting_number": 192
+                "sorting_number": 192,
+                "docs_id": "1XQ3lmrzm0PT7yqaRifBw4z_p2hO8AuxyTf7iv9dCpW0",
+                "download": {
+                    "plain": "patreon/live-at-the-table-55-bluff-city-zoo-two-pt-1.txt"
+                }
             },
             {
                 "title": "Bluff City 01: A Bowling Alley, A Boxer, and A Bird Pt. 1",
@@ -5984,10 +6014,16 @@
                 "sorting_number": 272
             },
             {
+                "title": "Gathering Information 02: Designing Astirs",
+                "slug": "gathering-information-02-designing-astirs",
+                "done": false,
+                "sorting_number": 273
+            },
+            {
                 "title": "Pusher Update Catchup #1: The New Big Ship We All Live On",
                 "slug": "pusher-update-catchup-1-the-new-big-ship-we-all-live-on",
                 "done": true,
-                "sorting_number": 273,
+                "sorting_number": 274,
                 "docs_id": "1d6j9-ce28JINpZXTPin1uJQl7SjTyk7mWRtA5r6ZrVA",
                 "download": {
                     "plain": "patreon/pusher-update-catchup-1-the-new-big-ship-we-all-live-on.txt"
@@ -5997,7 +6033,7 @@
                 "title": "Bluff City Movie Club: The Nice Guys",
                 "slug": "bluff-city-movie-club-the-nice-guys",
                 "done": false,
-                "sorting_number": 274,
+                "sorting_number": 275,
                 "docs_id": "1RVovU21JW22qU-WqOxTTIOJY3KEEs0WPy5bms31fhUk",
                 "download": {
                     "plain": "patreon/bluff-city-movie-club-the-nice-guys.txt"
@@ -6007,13 +6043,13 @@
                 "title": "Bluff City Movie Club: Sneakers",
                 "slug": "bluff-city-movie-club-sneakers",
                 "done": false,
-                "sorting_number": 275
+                "sorting_number": 276
             },
             {
                 "title": "Bluff City Movie Club: Streets Of Fire",
                 "slug": "bluff-city-movie-club-streets-of-fire",
                 "done": false,
-                "sorting_number": 276,
+                "sorting_number": 277,
                 "docs_id": "13J_aLd8y3GfDhwV8FN3Nc1U_PVkWnhSN3pGsN6XZgGI",
                 "download": {
                     "plain": "patreon/bluff-city-movie-club-streets-of-fire.txt"
@@ -6023,13 +6059,17 @@
                 "title": "Pusher Media Club: Tampopo",
                 "slug": "pusher-media-club-tampopo",
                 "done": false,
-                "sorting_number": 277
+                "sorting_number": 278,
+                "docs_id": "1t-nHkTitJZbQOk-j2a0sYHQdQpGpNKlOFuXq_emroIU",
+                "download": {
+                    "plain": "patreon/pusher-media-club-tampopo.txt"
+                }
             },
             {
                 "title": "Pusher Media Club: Fargo",
                 "slug": "pusher-media-club-fargo",
                 "done": false,
-                "sorting_number": 278,
+                "sorting_number": 279,
                 "docs_id": "1w3E4dfwE5Vw7qkYdEo3n-Td4jI2H-fA-B0DLbg4BZNw",
                 "download": {
                     "plain": "patreon/pusher-media-club-fargo.txt"
@@ -6039,7 +6079,7 @@
                 "title": "Pusher Media Club: Better Call Saul",
                 "slug": "pusher-media-club-better-call-saul",
                 "done": false,
-                "sorting_number": 279,
+                "sorting_number": 280,
                 "docs_id": "1TRRCrpsz_7RyKGPHQbx2YZFSFR0CDzDKcBvDdQB1SD0",
                 "download": {
                     "plain": "patreon/pusher-media-club-better-call-saul.txt"
@@ -6049,7 +6089,7 @@
                 "title": "Pusher Media Club: Crimson Peak",
                 "slug": "pusher-media-club-crimson-peak",
                 "done": false,
-                "sorting_number": 280,
+                "sorting_number": 281,
                 "docs_id": "135JtMWiy3neDUkWt1dUCKPeFvP2avaRJGqsXlHi9IT8",
                 "download": {
                     "plain": "patreon/pusher-media-club-crimson-peak.txt"
@@ -6059,7 +6099,7 @@
                 "title": "Pusher Media Club: Spirited Away",
                 "slug": "pusher-media-club-spirited-away",
                 "done": false,
-                "sorting_number": 281,
+                "sorting_number": 282,
                 "docs_id": "13a-PW5pikSf_hH99Vr3aQX2U38h8LDeKjzI1_62E_Mg",
                 "download": {
                     "plain": "patreon/pusher-media-club-spirited-away.txt"
@@ -6069,7 +6109,7 @@
                 "title": "Pusher Media Club: There Will Be Blood",
                 "slug": "pusher-media-club-there-will-be-blood",
                 "done": false,
-                "sorting_number": 282,
+                "sorting_number": 283,
                 "docs_id": "14A3y7Zwf6riQabKRwCEdmhVvaClF6oqimY_sXVInoJA",
                 "download": {
                     "plain": "patreon/pusher-media-club-there-will-be-blood.txt"
@@ -6079,7 +6119,7 @@
                 "title": "Pusher Media Club: Dracula",
                 "slug": "pusher-media-club-dracula",
                 "done": false,
-                "sorting_number": 283
+                "sorting_number": 284
             }
         ]
     }
