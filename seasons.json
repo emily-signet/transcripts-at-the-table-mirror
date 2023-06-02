@@ -4059,13 +4059,21 @@
                 "title": "PALISADE 11: The Wheels Turning Pt. 2",
                 "slug": "palisade-11-the-wheels-turning-pt-2",
                 "done": false,
-                "sorting_number": 10
+                "sorting_number": 10,
+                "docs_id": "1JX6A6ARZFI1DYI5SJe2OuF3znG3pXzLcbbiwF4Nu7YI",
+                "download": {
+                    "plain": "palisade/palisade-11-the-wheels-turning-pt-2.txt"
+                }
             },
             {
                 "title": "PALISADE 12: Worth the Trouble Pt. 1",
                 "slug": "palisade-12-worth-the-trouble-pt-1",
                 "done": false,
-                "sorting_number": 11
+                "sorting_number": 11,
+                "docs_id": "e",
+                "download": {
+                    "plain": "palisade/palisade-12-worth-the-trouble-pt-1.txt"
+                }
             }
         ]
     },
@@ -5802,16 +5810,22 @@
                 "sorting_number": 238
             },
             {
+                "title": "Bluff City 46: Give Way to Open Sky Pt. 2",
+                "slug": "bluff-city-46-give-way-to-open-sky-pt-2",
+                "done": false,
+                "sorting_number": 239
+            },
+            {
                 "title": "Drawing Maps Audio 01: Road to Season 6 Microscope Summary",
                 "slug": "drawing-maps-audio-01-road-to-season-6-microscope-summary",
                 "done": true,
-                "sorting_number": 239
+                "sorting_number": 240
             },
             {
                 "title": "Drawing Maps Audio 02: Season 6 Faction Creation Pt. 1 - Government Type",
                 "slug": "drawing-maps-audio-02-season-6-faction-creation-pt-1-government-type",
                 "done": true,
-                "sorting_number": 240,
+                "sorting_number": 241,
                 "docs_id": "1xkvFCfjDQJpOgMKOyyD3PWgTNqCgh-Sd-kUJ5nVkoZU",
                 "download": {
                     "plain": "patreon/drawing-maps-audio-02-season-6-faction-creation-pt-1-government-type.txt"
@@ -5821,187 +5835,187 @@
                 "title": "Drawing Maps Audio 03: Season 6 Faction Creation Pt. 2 - Aesthetics",
                 "slug": "drawing-maps-audio-03-season-6-faction-creation-pt-2-aesthetics",
                 "done": true,
-                "sorting_number": 241
+                "sorting_number": 242
             },
             {
                 "title": "Drawing Maps Audio 04: Season 6 Faction Creation Pt. 3 - Corruption",
                 "slug": "drawing-maps-audio-04-season-6-faction-creation-pt-3-corruption",
                 "done": true,
-                "sorting_number": 242
+                "sorting_number": 243
             },
             {
                 "title": "Drawing Maps Audio 05: Season 6 Faction Creation Pt. 4 - Squads",
                 "slug": "drawing-maps-audio-05-season-6-faction-creation-pt-4-squads",
                 "done": true,
-                "sorting_number": 243
+                "sorting_number": 244
             },
             {
                 "title": "Drawing Maps Audio 06: Season 6 Faction Creation Pt. 5 - Regions",
                 "slug": "drawing-maps-audio-06-season-6-faction-creation-pt-5-regions",
                 "done": true,
-                "sorting_number": 244
+                "sorting_number": 245
             },
             {
                 "title": "Drawing Maps Audio 07: Season 6 Faction Creation Pt. 6 - Independents, NPCs, and MECHS",
                 "slug": "drawing-maps-audio-07-season-6-faction-creation-pt-6-independents-npcs-and-mechs",
                 "done": true,
-                "sorting_number": 245
+                "sorting_number": 246
             },
             {
                 "title": "Drawing Maps Audio 08: Season 6 Faction Creation Pt. 7 - Time and Space",
                 "slug": "drawing-maps-audio-08-season-6-faction-creation-pt-7-time-and-space",
                 "done": true,
-                "sorting_number": 246
+                "sorting_number": 247
             },
             {
                 "title": "Drawing Maps Audio 09: Season 6 Faction Creation Pt. 8 - Revisiting Kesh + Wrap Up",
                 "slug": "drawing-maps-audio-09-season-6-faction-creation-pt-8-revisiting-kesh-wrap-up",
                 "done": true,
-                "sorting_number": 247
+                "sorting_number": 248
             },
             {
                 "title": "Drawing Maps Audio 10 - January 2020 - PARTIZAN 00-04",
                 "slug": "drawing-maps-audio-10-january-2020-partizan-00-04",
                 "done": true,
-                "sorting_number": 248
+                "sorting_number": 249
             },
             {
                 "title": "Drawing Maps Audio 11 - February 2020 - PARTIZAN 05-08",
                 "slug": "drawing-maps-audio-11-february-2020-partizan-05-08",
                 "done": true,
-                "sorting_number": 249
+                "sorting_number": 250
             },
             {
                 "title": "Drawing Maps Audio 12 - March 2020",
                 "slug": "drawing-maps-audio-12-march-2020",
                 "done": true,
-                "sorting_number": 250
+                "sorting_number": 251
             },
             {
                 "title": "Drawing Maps 13 - April 2020",
                 "slug": "drawing-maps-13-april-2020",
                 "done": true,
-                "sorting_number": 251
+                "sorting_number": 252
             },
             {
                 "title": "Drawing Maps 14: May 2020 - Livestream",
                 "slug": "drawing-maps-14-may-2020-livestream",
                 "done": false,
-                "sorting_number": 252
+                "sorting_number": 253
             },
             {
                 "title": "Drawing Maps Audio 15: Sangfielle Characters #1: Chine - June 2020",
                 "slug": "drawing-maps-audio-15-sangfielle-characters-1-chine-june-2020",
                 "done": false,
-                "sorting_number": 253
+                "sorting_number": 254
             },
             {
                 "title": "Drawing Maps Audio 16: Sangfielle Characters #2: Marn - July 2020",
                 "slug": "drawing-maps-audio-16-sangfielle-characters-2-marn-july-2020",
                 "done": false,
-                "sorting_number": 254
+                "sorting_number": 255
             },
             {
                 "title": "Drawing Maps Audio 17: Sangfielle Characters #3: Es - August 2020",
                 "slug": "drawing-maps-audio-17-sangfielle-characters-3-es-august-2020",
                 "done": false,
-                "sorting_number": 255
+                "sorting_number": 256
             },
             {
                 "title": "Drawing Maps Audio 18: Sangfielle Characters #4: Virtue Mondegreen  - September 2020",
                 "slug": "drawing-maps-audio-18-sangfielle-characters-4-virtue-mondegreen-september-2020",
                 "done": false,
-                "sorting_number": 256
+                "sorting_number": 257
             },
             {
                 "title": "Drawing Maps Audio 19: Sangfielle Characters #5: Duvall - October 2020",
                 "slug": "drawing-maps-audio-19-sangfielle-characters-5-duvall-october-2020",
                 "done": false,
-                "sorting_number": 257
+                "sorting_number": 258
             },
             {
                 "title": "Drawing Maps Audio 20: Sangfielle Characters #6: Lye \"Lyke\" Lychen -November 2020",
                 "slug": "drawing-maps-audio-20-sangfielle-characters-6-lye-lyke-lychen-november-2020",
                 "done": false,
-                "sorting_number": 258
+                "sorting_number": 259
             },
             {
                 "title": "Drawing Maps 21: Sangfielle Characters #7: Pickman - December 2020",
                 "slug": "drawing-maps-21-sangfielle-characters-7-pickman-december-2020",
                 "done": false,
-                "sorting_number": 259
+                "sorting_number": 260
             },
             {
                 "title": "Drawing Maps 22: Sangfielle Characters #8: Chine and Marn Redux - January 2021",
                 "slug": "drawing-maps-22-sangfielle-characters-8-chine-and-marn-redux-january-2021",
                 "done": false,
-                "sorting_number": 260
+                "sorting_number": 261
             },
             {
                 "title": "Drawing Maps Audio 23: The Curse of Eastern Folly Arc - February 2021",
                 "slug": "drawing-maps-audio-23-the-curse-of-eastern-folly-arc-february-2021",
                 "done": false,
-                "sorting_number": 261
+                "sorting_number": 262
             },
             {
                 "title": "Drawing Maps Audio 24: The Hymn of the Mother-Beast Arc- March 2021",
                 "slug": "drawing-maps-audio-24-the-hymn-of-the-mother-beast-arc-march-2021",
                 "done": false,
-                "sorting_number": 262
+                "sorting_number": 263
             },
             {
                 "title": "Drawing Maps Audio 25: The Secret Ledger of Roseroot Hall Arc - April 2021",
                 "slug": "drawing-maps-audio-25-the-secret-ledger-of-roseroot-hall-arc-april-2021",
                 "done": false,
-                "sorting_number": 263
+                "sorting_number": 264
             },
             {
                 "title": "Drawing Maps Audio 26: The Candle Factory - May 2021",
                 "slug": "drawing-maps-audio-26-the-candle-factory-may-2021",
                 "done": false,
-                "sorting_number": 264
+                "sorting_number": 265
             },
             {
                 "title": "Drawing Maps Audio 27: What Happened at Bell Metal Station - June 2021",
                 "slug": "drawing-maps-audio-27-what-happened-at-bell-metal-station-june-2021",
                 "done": false,
-                "sorting_number": 265
+                "sorting_number": 266
             },
             {
                 "title": "Drawing Maps Audio 28: At the Gates of Sapodilla - July 2021",
                 "slug": "drawing-maps-audio-28-at-the-gates-of-sapodilla-july-2021",
                 "done": false,
-                "sorting_number": 266
+                "sorting_number": 267
             },
             {
                 "title": "Drawing Maps 29: The Perpetual Oratorio of Davia Pledge - August 2021",
                 "slug": "drawing-maps-29-the-perpetual-oratorio-of-davia-pledge-august-2021",
                 "done": false,
-                "sorting_number": 267
+                "sorting_number": 268
             },
             {
                 "title": "Drawing Maps 30: Hark! The Citadel Beneath - September 2021",
                 "slug": "drawing-maps-30-hark-the-citadel-beneath-september-2021",
                 "done": false,
-                "sorting_number": 268
+                "sorting_number": 269
             },
             {
                 "title": "Drawing Maps 31: Marrowcreek - October 2021",
                 "slug": "drawing-maps-31-marrowcreek-october-2021",
                 "done": false,
-                "sorting_number": 269
+                "sorting_number": 270
             },
             {
                 "title": "Drawing Maps 32: PALISADE Playlist",
                 "slug": "drawing-maps-32-palisade-playlist",
                 "done": false,
-                "sorting_number": 270
+                "sorting_number": 271
             },
             {
                 "title": "Hunter x Hunter Screenshot Analysis AUDIO",
                 "slug": "hunter-x-hunter-screenshot-analysis-audio",
                 "done": false,
-                "sorting_number": 271,
+                "sorting_number": 272,
                 "docs_id": "1s_Lh5kKhpAz8QWZFV1vcWl7HF5tV5n097nT6vlCAzjk",
                 "download": {
                     "plain": "patreon/hunter-x-hunter-screenshot-analysis-audio.txt"
@@ -6011,19 +6025,19 @@
                 "title": "Gathering Information: Adapting Playbooks",
                 "slug": "gathering-information-adapting-playbooks",
                 "done": false,
-                "sorting_number": 272
+                "sorting_number": 273
             },
             {
                 "title": "Gathering Information 02: Designing Astirs",
                 "slug": "gathering-information-02-designing-astirs",
                 "done": false,
-                "sorting_number": 273
+                "sorting_number": 274
             },
             {
                 "title": "Pusher Update Catchup #1: The New Big Ship We All Live On",
                 "slug": "pusher-update-catchup-1-the-new-big-ship-we-all-live-on",
                 "done": true,
-                "sorting_number": 274,
+                "sorting_number": 275,
                 "docs_id": "1d6j9-ce28JINpZXTPin1uJQl7SjTyk7mWRtA5r6ZrVA",
                 "download": {
                     "plain": "patreon/pusher-update-catchup-1-the-new-big-ship-we-all-live-on.txt"
@@ -6033,7 +6047,7 @@
                 "title": "Bluff City Movie Club: The Nice Guys",
                 "slug": "bluff-city-movie-club-the-nice-guys",
                 "done": false,
-                "sorting_number": 275,
+                "sorting_number": 276,
                 "docs_id": "1RVovU21JW22qU-WqOxTTIOJY3KEEs0WPy5bms31fhUk",
                 "download": {
                     "plain": "patreon/bluff-city-movie-club-the-nice-guys.txt"
@@ -6043,13 +6057,13 @@
                 "title": "Bluff City Movie Club: Sneakers",
                 "slug": "bluff-city-movie-club-sneakers",
                 "done": false,
-                "sorting_number": 276
+                "sorting_number": 277
             },
             {
                 "title": "Bluff City Movie Club: Streets Of Fire",
                 "slug": "bluff-city-movie-club-streets-of-fire",
                 "done": false,
-                "sorting_number": 277,
+                "sorting_number": 278,
                 "docs_id": "13J_aLd8y3GfDhwV8FN3Nc1U_PVkWnhSN3pGsN6XZgGI",
                 "download": {
                     "plain": "patreon/bluff-city-movie-club-streets-of-fire.txt"
@@ -6059,7 +6073,7 @@
                 "title": "Pusher Media Club: Tampopo",
                 "slug": "pusher-media-club-tampopo",
                 "done": false,
-                "sorting_number": 278,
+                "sorting_number": 279,
                 "docs_id": "1t-nHkTitJZbQOk-j2a0sYHQdQpGpNKlOFuXq_emroIU",
                 "download": {
                     "plain": "patreon/pusher-media-club-tampopo.txt"
@@ -6069,7 +6083,7 @@
                 "title": "Pusher Media Club: Fargo",
                 "slug": "pusher-media-club-fargo",
                 "done": false,
-                "sorting_number": 279,
+                "sorting_number": 280,
                 "docs_id": "1w3E4dfwE5Vw7qkYdEo3n-Td4jI2H-fA-B0DLbg4BZNw",
                 "download": {
                     "plain": "patreon/pusher-media-club-fargo.txt"
@@ -6079,7 +6093,7 @@
                 "title": "Pusher Media Club: Better Call Saul",
                 "slug": "pusher-media-club-better-call-saul",
                 "done": false,
-                "sorting_number": 280,
+                "sorting_number": 281,
                 "docs_id": "1TRRCrpsz_7RyKGPHQbx2YZFSFR0CDzDKcBvDdQB1SD0",
                 "download": {
                     "plain": "patreon/pusher-media-club-better-call-saul.txt"
@@ -6089,7 +6103,7 @@
                 "title": "Pusher Media Club: Crimson Peak",
                 "slug": "pusher-media-club-crimson-peak",
                 "done": false,
-                "sorting_number": 281,
+                "sorting_number": 282,
                 "docs_id": "135JtMWiy3neDUkWt1dUCKPeFvP2avaRJGqsXlHi9IT8",
                 "download": {
                     "plain": "patreon/pusher-media-club-crimson-peak.txt"
@@ -6099,7 +6113,7 @@
                 "title": "Pusher Media Club: Spirited Away",
                 "slug": "pusher-media-club-spirited-away",
                 "done": false,
-                "sorting_number": 282,
+                "sorting_number": 283,
                 "docs_id": "13a-PW5pikSf_hH99Vr3aQX2U38h8LDeKjzI1_62E_Mg",
                 "download": {
                     "plain": "patreon/pusher-media-club-spirited-away.txt"
@@ -6109,7 +6123,7 @@
                 "title": "Pusher Media Club: There Will Be Blood",
                 "slug": "pusher-media-club-there-will-be-blood",
                 "done": false,
-                "sorting_number": 283,
+                "sorting_number": 284,
                 "docs_id": "14A3y7Zwf6riQabKRwCEdmhVvaClF6oqimY_sXVInoJA",
                 "download": {
                     "plain": "patreon/pusher-media-club-there-will-be-blood.txt"
@@ -6119,7 +6133,7 @@
                 "title": "Pusher Media Club: Dracula",
                 "slug": "pusher-media-club-dracula",
                 "done": false,
-                "sorting_number": 284
+                "sorting_number": 285
             }
         ]
     }
