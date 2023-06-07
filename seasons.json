@@ -6133,7 +6133,11 @@
                 "title": "Pusher Media Club: Dracula",
                 "slug": "pusher-media-club-dracula",
                 "done": false,
-                "sorting_number": 285
+                "sorting_number": 285,
+                "docs_id": "1UxPj9YLOmAcFODEcbq71zGBHdSVGqpCXmxftg_-ewmE",
+                "download": {
+                    "plain": "patreon/pusher-media-club-dracula.txt"
+                }
             }
         ]
     }
