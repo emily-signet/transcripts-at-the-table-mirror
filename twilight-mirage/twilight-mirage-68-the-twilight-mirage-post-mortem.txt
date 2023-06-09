@@ -1018,7 +1018,7 @@ KEITH: What’s your— what’s your bug’s persona?
 DRE: Ahhhh. Wait, hold on—
 
 
-[AUSTIN loudly does the thing where you blow into your closed lips in the way that makes them make that “bbbb” sound?]
+[AUSTIN loudly does the thing where you blow into your closed lips in the way that makes them make that “bbbb” sound?][a]
 
 
 ART: Give us— give us a furry bug or get the hell out of here.
@@ -5200,3 +5200,4 @@ JACK: Bye.
 [“The Notion” plays]
 ________________
 [1] The name in the audio recording is no longer in use, hence the audio/transcript discrepancy.
+[a]"Blows a raspberry" maybe??? I don't know words
