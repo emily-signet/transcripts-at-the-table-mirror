@@ -6057,7 +6057,11 @@
                 "title": "Bluff City Movie Club: Sneakers",
                 "slug": "bluff-city-movie-club-sneakers",
                 "done": false,
-                "sorting_number": 277
+                "sorting_number": 277,
+                "docs_id": "17WmYp3cSm5GHIV6awq6c1hl4LBN8TfqNeCsqLv2DAdI",
+                "download": {
+                    "plain": "patreon/bluff-city-movie-club-sneakers.txt"
+                }
             },
             {
                 "title": "Bluff City Movie Club: Streets Of Fire",
