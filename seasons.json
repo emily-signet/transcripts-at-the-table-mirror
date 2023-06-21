@@ -3109,7 +3109,11 @@
                 "title": "PARTIZAN 44: The Prison at the Top of the World",
                 "slug": "partizan-44-the-prison-at-the-top-of-the-world",
                 "done": false,
-                "sorting_number": 45
+                "sorting_number": 45,
+                "docs_id": "15F4WnkVlKfjwVBvCHjwkKP_ZHBdLOI4VqavQ8h_5SGQ",
+                "download": {
+                    "plain": "partizan/partizan-44-the-prison-at-the-top-of-the-world.txt"
+                }
             },
             {
                 "title": "PARTIZAN 45: Operation Shackled Sun: Act 1: The Fray",
@@ -4089,6 +4093,16 @@
                 "docs_id": "1MGf9y_NYW6LdUH7NHuu4mReybOJeCnuxfYuOIik4-u4",
                 "download": {
                     "plain": "palisade/palisade-14-upon-our-grace-pt-1.txt"
+                }
+            },
+            {
+                "title": "PALISADE 15: Upon Our Grace Pt. 2",
+                "slug": "palisade-15-upon-our-grace-pt-2",
+                "done": false,
+                "sorting_number": 14,
+                "docs_id": "19R5uxiH1Q1aLB9TdiJiiIU0HsNjh7evDzIuv9Ntp_cU",
+                "download": {
+                    "plain": "palisade/palisade-15-upon-our-grace-pt-2.txt"
                 }
             }
         ]
