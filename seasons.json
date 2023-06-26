@@ -5561,7 +5561,11 @@
                 "title": "Bluff City 08: The Eighty Six Pt. 2",
                 "slug": "bluff-city-08-the-eighty-six-pt-2",
                 "done": false,
-                "sorting_number": 200
+                "sorting_number": 200,
+                "docs_id": "1OiKEsjawUUTlJDb5Ilp8MTQ7ZwmE9gEmiDltPZLdK_0",
+                "download": {
+                    "plain": "patreon/bluff-city-08-the-eighty-six-pt-2.txt"
+                }
             },
             {
                 "title": "Bluff City 09: The Grapplers Down at Promenade Arena Pt. 1",
