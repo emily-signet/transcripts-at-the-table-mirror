@@ -4083,7 +4083,11 @@
                 "title": "PALISADE 13: Worth the Trouble Pt. 2",
                 "slug": "palisade-13-worth-the-trouble-pt-2",
                 "done": false,
-                "sorting_number": 12
+                "sorting_number": 12,
+                "docs_id": "1It_atIVCdA3zhvhbbJpbTorfCmlnf1FPATS-jUXEWps",
+                "download": {
+                    "plain": "palisade/palisade-13-worth-the-trouble-pt-2.txt"
+                }
             },
             {
                 "title": "PALISADE 14: Upon Our Grace Pt. 1",
@@ -4103,6 +4107,16 @@
                 "docs_id": "19R5uxiH1Q1aLB9TdiJiiIU0HsNjh7evDzIuv9Ntp_cU",
                 "download": {
                     "plain": "palisade/palisade-15-upon-our-grace-pt-2.txt"
+                }
+            },
+            {
+                "title": "PALISADE 16: Upon Our Grace Pt. 3",
+                "slug": "palisade-16-upon-our-grace-pt-3",
+                "done": false,
+                "sorting_number": 15,
+                "docs_id": "1hutgDkLQ-amAMJ1yCz38OTJzAZTbBu3oHJ1RLz00QHQ",
+                "download": {
+                    "plain": "palisade/palisade-16-upon-our-grace-pt-3.txt"
                 }
             }
         ]
