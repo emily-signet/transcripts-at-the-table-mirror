@@ -710,7 +710,7 @@ Art (as Calamity): [quietly] What?
 Jack (as Marianne): Hand me over to your father.
 Keith (as ‘adult’ Tarpon): [resuming his adult impression] Hello. Oh, over there, is that my son?
 Austin (as Keaton): Yeah—
-Keith (as ‘adult’ Tarpon): [crosstalk] Yeah, it’s me!
+Keith (as Tarpon): [crosstalk] Yeah, it’s me!
 Austin (as Keaton): [whispering] Okay, good. Good job!
 Keith (as Tarpon): [whispering] Thanks.
 Art (as Calamity): [whispering] Good job.
@@ -1053,7 +1053,8 @@ Art (as Calamity): Geyser.
 Keith (as Tarpon): Real — but like, way hot water.
 Austin (as Keaton): [does more geyser Foley]
 Jack (as Marianne): [crosstalk] It is water?
-Keith (as Tarpon): I think? What — what was the question?
+Austin (as Keaton): I think? 
+Keith (as Tarpon): What — what was the question?
 Jack (as Marianne): Is it water?
 Keith (as Tarpon): Yeah, it’s hot water, yeah.
 Jack (as Marianne): Is it safe to drink?
@@ -1078,7 +1079,7 @@ Keith (as Tarpon): [crosstalk] He’s at work. He’s at his job. He’s a chapl
 Jack (as Marianne): May I speak to your father?
 Austin (as Keaton): [whispers] Oh, I think she knows.
 Keith (as Tarpon): Hold on!
-Austin (as Keaton): [whispers] She might know
+Austin (as Keaton): [whispers] She might know.
 Keith (as Tarpon): [whispers] Maybe I could call him on the phone.
 Austin (as Keaton): [whispers] Yeah, call him on the phone!
 Keith (as Tarpon): [whispers] Okay. [louder] I’m gonna call him on the phone.
@@ -1329,7 +1330,7 @@ Keith: Shouted out!
 Austin: What um — what corporations are represented here? What types of corporations are here?
 Jack: I worked for a heating and electricity corporation.
 Austin: Okay. Do you have for it, or should I just write ‘heating and electricity’?
-Jack: Um, they’re called, um… uh, they’re called… Write out ‘heating and electricity.’
+Jack: Um, they’re called, um… uh, they’re called… Write out ‘heating and electricity.’ [laughs]
 Austin: Alright. Lunar Leson absolutely worked for a massive, galactic, um, florist, which is why her ship is called the Rose of Sharon.
 Jack: [crosstalk] Oh, wow.
 Austin: Like, they’ve just provided me with this mech. Like, this is straight up what it is. And so, um, it is called… HIGHbiscus.
@@ -1439,7 +1440,7 @@ Austin: Great. Uh, David.
 Keith: Hi, so I have a 1 for the war. And I can tell you — I can tell you that that is tied — it’s tied inextricably with my 1 for my mech. My mech — my mech broke. My one that I loved broke. And so now I have this replacement thing, and I just don’t like it, and I don’t like being in the war. I probably didn’t to begin with, but now I’m like, not even having fun in my mech [Austin laughs softly] that I’m — that I enjoy being in.
 Austin: So you enjoy being in it. Okay.
 [1:45:00]
-Keith: [crosstalk] HXE-44. I enjoy being in my old mech.
+Keith: [crosstalk] HXE-44? I enjoy being in my old mech.
 Austin: Gotcha. 
 Keith: Like, yeah, I used to have – I used to be a guy and I had this mech and it was mine, and now I’ve — they gave me like, a replacement.
 Austin: Right.
@@ -1610,7 +1611,7 @@ Austin: What’s that look like?
 Jack: Um, so I think that there is a press conference.
 Austin: Mmmm.
 Jack: And the press conference is being held by, um, y’know, the… sort of managing director of one of the corps. [Austin: Mm-hm.]  Who was associated with the kind of outfit that we were sent out in. And I think that in like a very, y’know, post-OriCon style, she’s just wearing like a business suit, and is standing behind a lectern, and like, tapping her microphone to get people quiet. And — and, seated on either side of her are, um, my brother and me. [Austin: Mm.] And she says, 
-Jack (as Managing Director): Well, y’know, I’d like to hand over to — to some of the pilots who saw the tragedy as it befell, and were during the last moments of Courageous, and I’d them to talk about what it means to them. 
+Jack (as Managing Director): Well, y’know, I’d like to hand over to — to some of the pilots who saw the tragedy as it befell, and were during the last moments of Courageous, and I’d like for them to talk about what it means to them. 
 Jack: And I think it’s just propaganda. It’s just, straight up, classic, um, Smack Talk stands up. Maybe there’s a little bit of tears in his eyes. And he comes up to the lectern and he — he describes how sad it is, but how he knows that we are better than this. [Austin: Mm.] And how we can — we can do better than this, and we will do better than this.
 Jack (as Smack): We’re gonna launch an effort to flush the Hallows out. That sort of position they’re gonna be able to hold. Um, and this might have been a dark day for Courageous, and I’m sure we all feel their loss in our hearts, um, but I think it’s just all important that we stay together.
 Jack: And then I recite the company slogan.
@@ -1633,7 +1634,7 @@ Austin: Boom, there we go. So what happens?
 Keith: [crosstalk] Ah, should we move forward 1? Oh, is this all the — okay, round, got it.
 Austin: This is — this is — yeah, round is down here. I almost just tried to ping. And then resolve tracking and disillusionment tracking is up here. Yikes. Um, what the fuck happened?
 Jack: The doors at the back of the conference room slam open, and a journalist comes in. [Austin: Mm-hm.]  And, uh, he just — he just lays into us. In terms of, ‘why? What, okay? Why weren’t you prepared? What does that mean? Why weren’t you — oh, it picked up the wrong signals? I thought we would be — it picked up the wrong signals?’
-Austin: Are you fucking kidding me? God…
+Austin: “Are you fucking kidding me?” God…
 Jack: ‘This is the war! You can’t just say, oh we thought it was a — another.’ He doesn’t even dismantle us with clever —A: He — this is not — I don’t need to make these arguments. He should be arguing with either the spokeswoman or our generals, but because I made that big ridiculous propaganda spiel—
 Austin: Yeah.
 Jack: —not only is he targeting me, but I feel it.

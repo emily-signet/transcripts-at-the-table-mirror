@@ -12,9 +12,17 @@ KEITH: Agent Heard/Robber Twig [Created for Messy Business]
 
 
 AUSTIN [as Specialist Courson]: Specialist Courson, start record: Article intake, file number 8504. Object: Um, it’s a car? You sent me a car. Let me see: It says- it says ‘Teardrop Coupe’. C’mon, you know this isn’t- [sighs]. Alright, description: Um, two doors, four seats, it’s- it’s round. Like- I, uh- it has- it has really nice curves, uh, it is a great, kind of powder blue, silver trim, cream interior. That’s what it’s called, right? Interior? There’s the stick in the middle, three pedals - so I’m gonna say it’s a manual. 
+
+
 Big trunk, [sighs] there’s a spare tire in here. Um, condition: I don’t see any scratches or anything. Let me pop the hood and look at the engine. Yeah, that’s an engine alright. Look, you know I don’t have the diagnostics for something like this, you’re gonna get what you’re gonna get unless you wanna shell out for an expert. 
+
+
 [sighs] Alright, the tires: They look a little rough, actually. You know what? Now that I’m down here, there’s some dirt and muck on the rear- carriage? The undercarriage? Is that, is that what it’s- [beat] Wait, there’s blood on this fucking thing, Mimona! You’re supposed to check for shit like this before you send it my way. You know my policy on unclassified blood! I’m doubling my invoice for this one. Deal with it. 
+
+
 [sighs] Price: Um, blue book says 7k, but with the wear and tear on this one, no way. Fifty… four hundred… maybe. Comments and analysis: Fire in hell, what do you want me to say? It is a car. I think it probably hit someone, or drove through a crime scene, or maybe it is a crime scene. I’m not saying it’s a waste of my time but you know my specialty. Crosstown ephemera - pencils, glassware, home movies, those little canvas grocery bags. That’s my speciality, crosstown ephemera. Are cars ephemera? Like, maybe from a real bird’s eye view, I guess, maybe, and do not tell me to take my aerial form, okay, fuck you. 
+
+
 Next time, bring me a licence plate, bring me a… detachable faceplate from a stereo receiver, one of those little cigarette lighter things, perfect. I can tell you who used that, I can tell you where they were going, I can tell you what brand they smoked - but a whole car? Fuck, you know the story. I am the Knower of Things Hidden, secret and divine both. Not the Knower of Parking Lot Subsection 4C. And before you say anything- no, it is a nice car, but it is not divine. It has been a long week, and things have been weird, so, sorry for snapping, but please, next time, bring something like this to Bathin, maybe to Lee. Those folks? They know their chariots.
 
 
@@ -22,31 +30,31 @@ Next time, bring me a licence plate, bring me a… detachable faceplate from a s
 00;03;21 - 00;11;27
 
 
-        KEITH [as Robber]: Heard here.
+KEITH [as Robber]: Heard here.
 
 
-        AUSTIN [as Leslie][1]: Heard. Status Report.
+AUSTIN [as Leslie][1]: Heard. Status Report.
 
 
-        KEITH [as Robber]: Which part?
+KEITH [as Robber]: Which part?
 
 
-        AUSTIN [as Leslie]: [takes deep breath] The most recent. The Thicket. 
+AUSTIN [as Leslie]: [takes deep breath] The most recent. The Thicket. 
 
 
-        KEITH [as Robber]: Uh… There was a hostile agent here. And now there isn’t.
+KEITH [as Robber]: Uh… There was a hostile agent here. And now there isn’t.
 
 
-        AUSTIN [as Leslie]: Very good. [sighs] Have the others made moves on Squire?
+AUSTIN [as Leslie]: Very good. [sighs] Have the others made moves on Squire?
 
 
-        KEITH [as Robber]: Others… with me?
+KEITH [as Robber]: Others… with me?
 
 
-        AUSTIN [as Leslie, interrupting]: Yours.
+AUSTIN [as Leslie, interrupting]: Yours.
 
 
-        KEITH [as Robber]: [crosstalk] Yes. Well. Maybe. Cage- they’re cagey.
+KEITH [as Robber]: [crosstalk] Yes. Well. Maybe. Cage- they’re cagey.
 
 
 AUSTIN [as Leslie]: Watch them closely, and move with… similar confidence, if the time comes. We are considering you for great things, Heard.
@@ -85,7 +93,7 @@ AUSTIN: Okay, I just wanted to make sure that was all... But you do also know th
 ALI: Real quick, is the car in the photo? Or is it just the weird monster?
 
 
-AUSTIN: Yeah, yeah- no, the car in the photo. Mm. Let’s say that the photo was taken from the second or third floor of one of those nearby houses being built. So, yeah- we get the corner picture- the corner of the photo, looking down angled- in the corner of the picture is like, the tyre, and the rear end of the Teardrop Coup. So you- definitely that car, and you see- you see that, uh, Blake Blossom is like, crawling towards it? And then there’s just this collection of hands coming from off-screen, just these arms reaching for him. From off- off frame, basically.
+AUSTIN: Yeah, yeah- no, the car in the photo. Mm. Let’s say that the photo was taken from the second or third floor of one of those nearby houses being built. So, yeah- we get the corner picture- the corner of the photo, looking down angled- in the corner of the picture is like, the tyre, and the rear end of the Teardrop Coupe. So you- definitely that car, and you see- you see that, uh, Blake Blossom is like, crawling towards it? And then there’s just this collection of hands coming from off-screen, just these arms reaching for him. From off- off frame, basically.
 
 
 KEITH: We- so that- that means Sleeves was like here, watching the murder as it happened?
@@ -118,7 +126,7 @@ JACK [as Florence]: [pauses, takes breath] Ryder, we have to consider the possib
 ALI [as Chris]: We can investigate two things at once, okay?
 
 
-JACK [as Florence]: Okay
+JACK [as Florence]: Okay.
 
 
 JACK: And I think Florence just like, turns back around to the- to the group, as though she’s gonna say something? But instead just- just stands there with her arms folded, it’s just like- [Ali laughs] I’ve transitioned from conversation A to conversation B.
@@ -431,7 +439,7 @@ KEITH: You know what I’m talking about?
 AUSTIN: Yeah, yeah. So, Mike Truk shows up- pulling up, in this car- it’s like a, a rusty orange colour? And he’s pulling into a different driveway just down the block, between two houses. And it’s one of those houses that’s in, a little bit better state? In terms of being built? There’s like- you know, wooden boards in the back, there’s some paint, and he is like- going- he’s about to unload that stuff, when he sees you. And he waves at you. He’s like-
 
 
-        AUSTIN [as Mike]: Heard! Heard?
+AUSTIN [as Mike]: Heard! Heard?
 
 
 KEITH: No, no, that’s not-
@@ -443,13 +451,13 @@ AUSTIN: Sorry, sorry, he doesn’t know you as that. What does he know you as? A
 KEITH: Robber Twig.
 
 
-        AUSTIN [as Mike]: Twig! Twig?
+AUSTIN [as Mike]: Twig! Twig?
 
 
 AUSTIN: And he’s starting to walk over to y’all!
 
 
-        KEITH [as Robber]: Hi!
+KEITH [as Robber]: Hi!
 
 
 KEITH: I go over- I walk over to Truk.
@@ -470,7 +478,7 @@ KEITH: [crosstalk] I’m walking to intercept.
 ALI: Okay.
 
 
-        AUSTIN [as Mike]: You moving into the neighbourhood? 
+AUSTIN [as Mike]: You moving into the neighbourhood? 
 
 
 KEITH [as Robber]: No, no. We came out here… well, we all had pretty positive feelings about the wetlands and kinda wanted to… take a peek around before this particular patch turns into houses…
@@ -509,7 +517,7 @@ KEITH [as Robber]: We have very positive feeling about wetlands and damp air. An
 AUSTIN: As you say that, he just like, looks up at the snow very slowly, and like… eats one of the snowflakes as it falls, just does that. And then he looks back at you and goes-
 
 
-        AUSTIN [as Mike]: Yeah, I love it. You going to the parade?
+AUSTIN [as Mike]: Yeah, I love it. You going to the parade?
 
 
 KEITH [as Robber]: Um… [pause] My friends have all gotten a headache. And so… and so that’s why we decided to come out here today, to experience the damp air.
@@ -551,10 +559,10 @@ AUSTIN: Okay! Good [Jack laughs]
 ALI: And just like, closes the car door as like, the heads turn towards the party [AUSTIN: Great] like, body successfully concealed. 
 
 
-        KEITH [as Robber]: Tobacco clears up the sinuses. Pressure on the sinuses can cause a headache.
+KEITH [as Robber]: Tobacco clears up the sinuses. Pressure on the sinuses can cause a headache.
 
 
-        AUSTIN [as Mike]: Cigarettes are the best medicine, I say.
+AUSTIN [as Mike]: Cigarettes are the best medicine, I say.
 
 
 AUSTIN: Maggie, what are you up to?
@@ -605,16 +613,16 @@ AUSTIN: And he… closes the door. And that is your nine static.
 [pause, Ali sighs]
 
 
-        KEITH [as Robber]: [sighs] Agents, do not trust Mr Mike Truk. 
+KEITH [as Robber]: [sighs] Agents, do not trust Mr Mike Truk. 
 
 
 [Austin laughs in background]
 
 
-        ALI [as Chris]: Yes sir.
+ALI [as Chris]: Yes sir.
 
 
-        JACK [as Florence]: Yes sir.
+JACK [as Florence]: Yes sir.
 
 
 JANINE [as Maggie]: I- I’m sorry, are you telling us not to trust him, or asking if we trust him?
@@ -623,34 +631,34 @@ JANINE [as Maggie]: I- I’m sorry, are you telling us not to trust him, or aski
 KEITH [as Robber]: [deliberates] I- I guess telling you not to? Do you trust him?
 
 
-        JANINE [as Maggie]: He’s just some guy. 
+JANINE [as Maggie]: He’s just some guy. 
 
 
-        KEITH [as Robber]: A lot of people in this city are… just some guy.
+KEITH [as Robber]: A lot of people in this city are… just some guy.
 
 
-        JANINE [as Maggie]: And I don’t trust any of them. So…
+JANINE [as Maggie]: And I don’t trust any of them. So…
 
 
-        KEITH [as Robber]: There we go. Problem solved. Where to now, gang?
+KEITH [as Robber]: There we go. Problem solved. Where to now, gang?
 
 
 [pause]
 
 
-        KEITH [as Robber]: Ryder, are we gonna- are we gonna meet… Achilles?
+KEITH [as Robber]: Ryder, are we gonna- are we gonna meet… Achilles?
 
 
-        ALI [as Chris]: Oh, I should go see him. Someone- [trails off]
+ALI [as Chris]: Oh, I should go see him. Someone- [trails off]
 
 
-        KEITH [as Robber]: Just you? I think you should- I think you should take Seals.
+KEITH [as Robber]: Just you? I think you should- I think you should take Seals.
 
 
-        ALI [as Chris]: Yeah, I just think if it was the four of us, he would get spooked. That’s all.
+ALI [as Chris]: Yeah, I just think if it was the four of us, he would get spooked. That’s all.
 
 
-        KEITH [as Robber]: Yeah. 
+KEITH [as Robber]: Yeah. 
 
 
 ALI [as Chris]: And I think on the way back I can try to make sense of some of these- photos. At least a timeline or… something. 
@@ -671,7 +679,7 @@ AUSTIN: Yeah, you hit a lead. You hit a lead.
 JACK: [pages being turned in background] Yeah, I’m [filing] through the dossier here.
 
 
-AUSTIN: And also things on the board, right? [JACK: Yeah] City Wide Film Festival is still tonight, we haven’t actually spoken to Gale Green [ALI: Yeah], you know where the Teardrop Coup is- you have the keys to it, I mean obviously you’re going to Achilles Apollo, so I’m guessing Ryder you’re gonna want to hold onto those. You know that Finnegan Hands is connected in some weird way, he has some… insight. You know the Cultural Trust is connected to this somehow. Um… and you know the Curator is- has killed Blake Blossom. And you can- we can be very open-ended when you’re like, thinking about ways to start to piece this stuff together, because so much of it is, again, kind of procedural in some ways.
+AUSTIN: And also things on the board, right? [JACK: Yeah] City Wide Film Festival is still tonight, we haven’t actually spoken to Gale Green [ALI: Yeah], you know where the Teardrop Coupe is- you have the keys to it, I mean obviously you’re going to Achilles Apollo, so I’m guessing Ryder you’re gonna want to hold onto those. You know that Finnegan Hands is connected in some weird way, he has some… insight. You know the Cultural Trust is connected to this somehow. Um… and you know the Curator is- has killed Blake Blossom. And you can- we can be very open-ended when you’re like, thinking about ways to start to piece this stuff together, because so much of it is, again, kind of procedural in some ways.
 
 
 KEITH: Mm-hm. I wanna look into the Cultural Trust. 
@@ -1174,7 +1182,7 @@ JANINE: Sidecar
 AUSTIN: Sidecar, love it. [Ali snorts in background] Good job…. Achilles Apollo comes in. As a reminder, he’s a very big, black dude- he’s a prize fighter, like he’s a heavyweight fighter- which means he’s a subst- like, he takes up the room as he comes in. He’s bald- it’s like- his head is shaved, uh- and in this moment, he has like a grey suit with a black turtleneck on- with a white pocket square. And he’s wearing, uh- I don’t think he’s wearing sunglasses, but he does have a very nice umbrella which he closes in the- you know, at the side of door, like he hangs it. And he nods to you and he comes over and he sits down and goes-
 
 
-        AUSTIN (as ACHILLES): Who’s your friend?
+AUSTIN (as ACHILLES): Who’s your friend?
 
 
 ALI: [laughs] I think- um- like Chris specifically waits for Seals to introduce herself, so she can decide what codename she wants to give?
@@ -1207,16 +1215,16 @@ JANINE: But she says it very seriously.
 AUSTIN: That works. He goes
 
 
-        AUSTIN (as ACHILLES): Alright. Emi. 
+AUSTIN (as ACHILLES): Alright. Emi. 
 
 
-        ALI (as CHRIS): She’s a coworker of mine, we’re both here.
+ALI (as CHRIS): She’s a coworker of mine, we’re both here.
 
 
-        AUSTIN (as ACHILLES): I get you. Alright. So uh- how are you doing, Ryder?
+AUSTIN (as ACHILLES): I get you. Alright. So uh- how are you doing, Ryder?
 
 
-        ALI (as CHRIS): Good, great. Like you said- I’m here to investigate- oh
+ALI (as CHRIS): Good, great. Like you said- I’m here to investigate- oh
 
 
 JANINE: [interrupting] Wait, sorry.
@@ -1252,13 +1260,13 @@ ALI: You know? When they’re like- they’ve both been there. But yeah, I guess
 AUSTIN: Okay, so he’s just like-
 
 
-        AUSTIN (as ACHILLES): Ryder… you joining the… IRS?
+AUSTIN (as ACHILLES): Ryder… you joining the… IRS?
 
 
 [Keith laughs in background]
 
 
-        AUSTIN (as ACHILLES): That’s a switch. 
+AUSTIN (as ACHILLES): That’s a switch. 
 
 
 AUSTIN: He like, nods to you.
@@ -1273,7 +1281,7 @@ JANINE (as MAGGIE): Well, you know, the treasury reaches deep.
 JANINE: And she like, smirks a bit [Ali laughs] and takes a sip of her drink. [laughs]
 
 
-        AUSTIN (as ACHILLES): [sighs] So… what is it you’re looking for? Or what is it you found?
+AUSTIN (as ACHILLES): [sighs] So… what is it you’re looking for? Or what is it you found?
 
 
 ALI: Um… I think Chris has the keys and the note, and is like, squeezing them in her hand, and like, has her hands in front of her on the table, and has not like- revealed them to Apollo, but he probably understands. And I think that she’s just like…
@@ -1327,7 +1335,7 @@ ALI: Right, yeah. I think there’s some- oh, it doesn’t even matter, okay.
 AUSTIN: There you go, you got 13. Boom. [ALI: Alright] Which takes you to- up and out your target heart rate, which takes you back down and locks you to- the other stuff. You’re at 148 on your heart rate, now. He’s like-
 
 
-        AUSTIN (as ACHILLES): [sighs] Alright.
+AUSTIN (as ACHILLES): [sighs] Alright.
 
 
 AUSTIN: So a thing that happens in TechNoir, when you’re doing stuff- is eventually you don’t have to roll anymore, as the GM? Whenever you want to, you can roll to give you a lead on somebody’s thing. But you can also just be like ‘Oh, this is the thing that makes sense, I’m going to start drawing my own connections’, you know? [ALI: Mm] We’re at the point now where the map is pretty well developed- the plot map is pretty well developed like, oh I know- how he was involved and blah blah blah, right? [pause] He’s like.
@@ -1345,7 +1353,7 @@ ALI: [gasps]
 AUSTIN: And he goes- [sighs] - and he slides it back in. And he says-
 
 
-AUSTIN (as ACHILLES): Look… Blossom has some movie, before he died he made it- and everybody wanted that shit. Gale Green- and I think he just said Gale wanted it, for the uh- festival, apparently something big would change people’s mind about somethin’. The Trust wanted it, because ah- you know, they ah- didn’t want people seeing it. And the Syndicate wants it because it’s leverage. So, Syndicate was pretty sure it was inside the Coup that Blossom used to drive around. Gale was pretty sure it was in the Coup that Blossom used to drive around. And The Trust was pretty sure it was in the Coup that Blossom used to drive around. The Trust… got that Coup, the way they get things. And uh… they had it impounded, they hadn’t gotten the reel yet. So what I did was that I told the people who asked me, that I would get them the Coup. So I did. The only thing is- Gale asked me, and the Syndicate asked me too. So now I got a choice- see, I gave Gale the key.
+AUSTIN (as ACHILLES): Look… Blossom has some movie, before he died he made it- and everybody wanted that shit. Gale Green- and I think he just said Gale wanted it, for the uh- festival, apparently something big would change people’s mind about somethin’. The Trust wanted it, because ah- you know, they ah- didn’t want people seeing it. And the Syndicate wants it because it’s leverage. So, Syndicate was pretty sure it was inside the Coupe that Blossom used to drive around. Gale was pretty sure it was in the Coupe that Blossom used to drive around. And The Trust was pretty sure it was in the Coupe that Blossom used to drive around. The Trust… got that Coupe, the way they get things. And uh… they had it impounded, they hadn’t gotten the reel yet. So what I did was that I told the people who asked me, that I would get them the Coupe. So I did. The only thing is- Gale asked me, and the Syndicate asked me too. So now I got a choice- see, I gave Gale the key.
 
 
 AUSTIN: And he looks at you, Chris. And is like-
@@ -1378,13 +1386,13 @@ AUSTIN: From- from the Fiasco game.
 ALI: Oh, right, right
 
 
-AUSTIN: He was their prize fighter, remember there was the bet- so the bet was from the organised crime family from Bluff, and the organised crime family from Blough. Was the- the bet in that boxing fight. [pause] So the Whitaker Syndicate hired Apollo to steal the Coup and the reel- the film. Gale Green also convinced Achilles to do this? We don’t know their relationship, they’re- they’re friends, presumably? Right, they’re connected in some way.
+AUSTIN: He was their prize fighter, remember there was the bet- so the bet was from the organised crime family from Bluff, and the organised crime family from Blough. Was the- the bet in that boxing fight. [pause] So the Whitaker Syndicate hired Apollo to steal the Coupe and the reel- the film. Gale Green also convinced Achilles to do this? We don’t know their relationship, they’re- they’re friends, presumably? Right, they’re connected in some way.
 
 
 ALI: Mm-hm
 
 
-AUSTIN: So the- Achilles told- Achilles stole the Coup, gave Gale the keys to it, but kept the reel to give back to the Whitaker Syndicate. So that… he could keep his promise to Gale, but also keep his promise to his boss.
+AUSTIN: So the- Achilles told- Achilles stole the Coupe, gave Gale the keys to it, but kept the reel to give back to the Whitaker Syndicate. So that… he could keep his promise to Gale, but also keep his promise to his boss.
 
 
 ALI: Right
@@ -1462,7 +1470,7 @@ AUSTIN: Yeah
 ALI (as CHRIS): [takes deep breath] You’re… when I said I involved myself, you know I- your fingerprints don’t even have to be on this anymore, right? Like…
 
 
-AUSTIN (as ACHILLES): I mean, look. The Whitakers know I got the Coup. I could tell them the tape wasn’t there, but once it shows up at the festival… they’ll know, they’ll put it together. They got long arms.
+AUSTIN (as ACHILLES): I mean, look. The Whitakers know I got the Coupe. I could tell them the tape wasn’t there, but once it shows up at the festival… they’ll know, they’ll put it together. They got long arms.
 
 
 JANINE (as MAGGIE): [clicks tongue] You know how to take a dive, Apollo?
@@ -1507,7 +1515,7 @@ ALI: Ooh!
 AUSTIN: Wow, you rolled 4d6 and got 11! Wow! Right on the nose! [Ali laughs] God damn! So you’re up to 133, still within your range. Nice work! Um… hell yea… So he’s like-
 
 
-        AUSTIN (as ACHILLES): Tell- tell me what you’re thinking.
+AUSTIN (as ACHILLES): Tell- tell me what you’re thinking.
 
 
 00;49;29 - 00;56;39
@@ -1618,10 +1626,10 @@ AUSTIN: Trust in big letters! So I think it’s like- that’s on the floor, the
 JACK: I think I just, like, I think I just sort of pull Heard aside and say-
 
 
-        JACK [as Florence]: Sir, if I might, may I make a suggestion?
+JACK [as Florence]: Sir, if I might, may I make a suggestion?
 
 
-        KEITH [as Robber]: Yeah, of course.
+KEITH [as Robber]: Yeah, of course.
 
 
 JACK [as Florence]: I think we should divide and conquer. We go in there and say we’re from the Concern, they’ll think we’re strong-arming them. That’s not what either of us want- Well, I mean, that is what we want, but we don’t want them to think that.
@@ -1651,7 +1659,7 @@ JACK: I’m being like, retroactively tripped up, it’s great.
 [Ali continues to laugh]
 
 
-        JACK [as Florence]: Much will be gained through separation. 
+JACK [as Florence]: Much will be gained through separation. 
 
 
 KEITH [as Robber]: The good thing about being members of the Concern is that we’re not members of the Concern, we’re members of the Cultural Trust.
@@ -1666,13 +1674,13 @@ AUSTIN: [laughing] Oh, my God! I mean, you do have documents.
 JACK: What, we’re gonna just- this is me- okay.
 
 
-        JACK [as Florence]: We’re gonna impersonate the Cultural Trust?
+JACK [as Florence]: We’re gonna impersonate the Cultural Trust?
 
 
-        KEITH [as Robber]: Yeah. [beat] Yeah!
+KEITH [as Robber]: Yeah. [beat] Yeah!
 
 
-        JACK [as Florence]: Indeed.
+JACK [as Florence]: Indeed.
 
 
 [Jack quietly laughing in bg]
@@ -1766,7 +1774,7 @@ AUSTIN: Mm-hm?
 JACK: Ah… yes! She walks up to the reception and she puts down her documentation on the table, and she says…
 
 
-        JACK [as Florence]: My na-
+JACK [as Florence]: My na-
 
 
 AUSTIN: [interrupting] Wait- quick thing.
@@ -1862,22 +1870,22 @@ AUSTIN [as Receptionist]: The Main Office, ah- yeah we- I guess we expected a co
 AUSTIN: Points at Florence
 
 
-        AUSTIN [as Receptionist]: You… together?
+AUSTIN [as Receptionist]: You… together?
 
 
-        KEITH [as Robber]: Not together. I mean-
+KEITH [as Robber]: Not together. I mean-
 
 
-        AUSTIN [as Receptionist]: No.
+AUSTIN [as Receptionist]: No.
 
 
-        JACK [as Florence]: No, ah-
+JACK [as Florence]: No, ah-
 
 
-        AUSTIN [as Receptionist]: Just go upstairs.
+AUSTIN [as Receptionist]: Just go upstairs.
 
 
-        JACK [as Florence]: Oh… okay.
+JACK [as Florence]: Oh… okay.
 
 
 [Keith laughs]
@@ -2439,7 +2447,7 @@ AUSTIN: Uh-huh, exactly. He’s like-
 KEITH: [imitating Maggie] There’s place we can hit you that won’t do lasting damage. [still laughing]
 
 
-        AUSTIN [as Achilles]: I think you gotta go bigger, I think you gotta bigger if we’re gonna do this. Because-
+AUSTIN [as Achilles]: I think you gotta go bigger, I think you gotta bigger if we’re gonna do this. Because-
 
 
 ALI: I- [stops]
@@ -2497,7 +2505,7 @@ AUSTIN: I love this idea of like- and it’s like, writing this conversation abo
 AUSTIN [as Achilles]: You can’t just… I… I am the heavyweight champion, you can’t just hit me in the knees a few times.
 
 
-JANINE [as Maggie]: Yeah, but they don’t bring tire irons into the ring- so, you know, there’s stuff that you wouldn’t be reasonably expected to hold your own against. [AUSTIN [as Achilles]: No, I’m-] And then we maybe just put you in the trunk of the Coup- and then like, give you a whistle or something, so you can get someone’s attention when it’s good- you know- after a few minutes have passed.
+JANINE [as Maggie]: Yeah, but they don’t bring tire irons into the ring- so, you know, there’s stuff that you wouldn’t be reasonably expected to hold your own against. [AUSTIN [as Achilles]: No, I’m-] And then we maybe just put you in the trunk of the Coupe- and then like, give you a whistle or something, so you can get someone’s attention when it’s good- you know- after a few minutes have passed.
 
 
 [beat]
@@ -2527,25 +2535,25 @@ KEITH: Get outta here, you little rat.
 [Ali is still laughing]
 
 
-        AUSTIN [as Achilles]: Alright well, we can try it- [sucks in breath]
+AUSTIN [as Achilles]: Alright well, we can try it- [sucks in breath]
 
 
 AUSTIN: And he like- clutches his knees for a second?
 
 
-        AUSTIN [as Achilles]: Don’t hit me in the knees though.
+AUSTIN [as Achilles]: Don’t hit me in the knees though.
 
 
-        JANINE [as Maggie]: No, no, I wasn’t gonna go for the knees.
+JANINE [as Maggie]: No, no, I wasn’t gonna go for the knees.
 
 
-        AUSTIN [as Achilles]: And be careful, because you could do lasting damage.
+AUSTIN [as Achilles]: And be careful, because you could do lasting damage.
 
 
-        JANINE [as Maggie]: Yeah, you don’t aim for joints.
+JANINE [as Maggie]: Yeah, you don’t aim for joints.
 
 
-        AUSTIN [as Achilles]: Or- organs!
+AUSTIN [as Achilles]: Or- organs!
 
 
 JANINE [as Maggie]: Yeah, I know. No kidneys, that’s a big one. No joints. Um… there are certain parts of the head that are okay, others aren’t.
@@ -2560,13 +2568,13 @@ JANINE [as Maggie]: What?
 AUSTIN: The bartender is just staring at you [Janine laughs] as you’re describing places to hurt someone. [Ali laughs]
 
 
-        AUSTIN [as Achilles]: [low tone] We gotta stay quiet when we’re talking in here.
+AUSTIN [as Achilles]: [low tone] We gotta stay quiet when we’re talking in here.
 
 
-        JANINE [as Maggie]: Right
+JANINE [as Maggie]: Right
 
 
-        AUSTIN [as Achilles]: Plus, we’re talking about weird shit, so…
+AUSTIN [as Achilles]: Plus, we’re talking about weird shit, so…
 
 
 ALI: I think, that’s the point at which this letter gets slid across the table, and at this point it’s like-
@@ -2578,10 +2586,10 @@ ALI [as Chris]: I’m sorry to make you more conflicted, but I think that that�
 AUSTIN: Cool. [Ali laughs] He sees that and he’s like-
 
 
-        AUSTIN [as Achilles]: Alright, let’s do it.
+AUSTIN [as Achilles]: Alright, let’s do it.
 
 
-AUSTIN: And… he tells you, I think, so, we get the slow cuts. Or like, you all stands up, and it cuts to you leaving the building- then it cuts to you on the street, and then it’s the exact same angle- side angle shot, like- full bodies walking from left to right, and when you get the edge of the frame it cuts. And it does that three or four times in the- in the parking garage, then you’re one of the ramp going up, and then finally you’re at the Coup. You’re at the Teardrop. And he says, like-
+AUSTIN: And… he tells you, I think, so, we get the slow cuts. Or like, you all stands up, and it cuts to you leaving the building- then it cuts to you on the street, and then it’s the exact same angle- side angle shot, like- full bodies walking from left to right, and when you get the edge of the frame it cuts. And it does that three or four times in the- in the parking garage, then you’re one of the ramp going up, and then finally you’re at the Coupe. You’re at the Teardrop. And he says, like-
 
 
 AUSTIN [as Achilles]: Put me in here. I can blow the whistle. And I’ll be able to say yes to everything that they say. [beat] Yeah- a tire iron? That’s what we’re doing.
@@ -2828,7 +2836,7 @@ AUSTIN: Yep
 ALI: [laughs] So yeah, I think she waits for it to go through, and it’s the kind of like, looking awkward at the people you’re in the room with, seeing what the wait is at the restaurant, and just being like-
 
 
-        ALI [as Chris]: Hi! Is- is Finnegan there? This is Agent Ryder.
+ALI [as Chris]: Hi! Is- is Finnegan there? This is Agent Ryder.
 
 
 AUSTIN: Finnegan?
@@ -2840,10 +2848,10 @@ JACK: Oh, I’m playing Finnegan?
 AUSTIN: Sure. It’s a short scene.
 
 
-        JACK [as Finnegan]: Uh, yeah, hi? Uh- who’s this?
+JACK [as Finnegan]: Uh, yeah, hi? Uh- who’s this?
 
 
-        ALI [as Chris]: Agent Ryder. I’m um… I’m with the Concern. I’m a… friend of Apollo’s?
+ALI [as Chris]: Agent Ryder. I’m um… I’m with the Concern. I’m a… friend of Apollo’s?
 
 
 ALI: And she looks at Apollo and like, shrugs.
@@ -2891,10 +2899,10 @@ ALI [as Chris]: A way out.
 AUSTIN: Ohh!!! [pause, Ali chuckles] I hadn’t thought about this. [Ali laughs] Because Finnegan is here too, huh?
 
 
-        JACK [as Finnegan]: Oh, he’s getting out?
+JACK [as Finnegan]: Oh, he’s getting out?
 
 
-        ALI [as Chris]: I- uh- 
+ALI [as Chris]: I- uh- 
 
 
 ALI: [laughs, recovers] I think that there’s a… point that- Chris hears that in Finnegan’s voice…
@@ -2906,7 +2914,7 @@ AUSTIN: Yeah
 ALI: And like… [laughs] I don’t know… I’m curious as to how Maggie and Apollo are reacting to this situation, but she’s just like…
 
 
-        ALI [as Chris]: It’s just a visit…
+ALI [as Chris]: It’s just a visit…
 
 
 ALI: And just like, shrugs at them again.
@@ -2918,7 +2926,7 @@ AUSTIN: Oh…
 ALI: [laughs] But like… it’s a similar situation where you like, wanna take my phone instead of a cigarette, then you can do that? [Austin laughs]
 
 
-        JACK [as Finnegan]: When’s he getting out?
+JACK [as Finnegan]: When’s he getting out?
 
 
 ALI [as Chris]: Oh, um… I’m still working out the details, but it would be… soon. By the end of the week.
@@ -2942,37 +2950,37 @@ JACK [as Finnegan]: Yeah, I wanna go! I’ve wanted to go since I got here! I- I
 JACK: And you just hear him like, scrambling for papers.
 
 
-        JACK [as Finnegan]: It’s Agent Ryder, right?
+JACK [as Finnegan]: It’s Agent Ryder, right?
 
 
 AUSTIN: [muttering] Fuck
 
 
-        ALI [as Chris]: Yeah
+ALI [as Chris]: Yeah.
 
 
-        JACK [as Finnegan]: And you’ll get me out?
+JACK [as Finnegan]: And you’ll get me out?
 
 
-        ALI [as Chris]: I’ll help you however I can.
+ALI [as Chris]: I’ll help you however I can.
 
 
-        JACK [as Finnegan]: And all I have to do is- is- is he in trouble?
+JACK [as Finnegan]: And all I have to do is- is- is he in trouble?
 
 
-        ALI [as Chris]: He will be if you don’t help.
+ALI [as Chris]: He will be if you don’t help.
 
 
-        JACK [as Finnegan]: [laugh of disbelief] Okay! Okay… okay, when should I expect him?
+JACK [as Finnegan]: [laugh of disbelief] Okay! Okay… okay, when should I expect him?
 
 
-        ALI [as Chris]: Soon. Where are you now?
+ALI [as Chris]: Soon. Where are you now?
 
 
-        JACK [as Finnegan]: Um, well… I’m at my house. 
+JACK [as Finnegan]: Um, well… I’m at my house. 
 
 
-        ALI [as Chris]: Is that secure?
+ALI [as Chris]: Is that secure?
 
 
 JACK [as Finnegan]: [chuckles] Is that secure? No… [recovers]. No, nowhere’s secure here. Wow, you haven’t been here long.
@@ -2981,7 +2989,7 @@ JACK [as Finnegan]: [chuckles] Is that secure? No… [recovers]. No, nowhere’s
 [Austin laughs]
 
 
-        ALI [as Chris]: I don’t plan to be.
+ALI [as Chris]: I don’t plan to be.
 
 
 JACK [as Finnegan]: [chuckles] You don’t plan to be… okay! Well… I mean you drop him round, we can meet at a safe location, uh- we can meet at a safe location, and I guess you can tell- you can tell them that we’ll be coming. By the end of week, right?
@@ -3072,7 +3080,7 @@ ALI: [gasps]
 AUSTIN: And… it is not infinite love, it is something else. And someone like, bumps- bumps into you, as you’re getting out of the car, and says to you, like
 
 
-        AU/UN: You should join up! It’s- it’s time for the Endless Jubilee!
+AUSTIN (as UNKNOWN): You should join up! It’s- it’s time for the Endless Jubilee!
 
 
 AUSTIN: And you look closer, and there is a ram’s horn, which is the historical symbol for the Jubilee. And it strikes you, Chris, like in this moment before- it’s happening again, right? Like, it’s Infinite Love-Omega Love, but this isn’t Bluff, so it couldn’t have just been Omega Love again. Here it’s the Endless Jubilee- it’s- it’s, you know, you’re- people are singing songs about forgiveness, and the- the new year, and in fact it is- it’s- how does Auld Lang Syne actually go?
@@ -3236,10 +3244,10 @@ AUSTIN: Okay… Gale is in her office, getting things ready, you know. I think i
 
 
 --01;46;24--
-        AUSTIN [as Gale]: Did Achilles send you?
+AUSTIN [as Gale]: Did Achilles send you?
 
 
-        ALI [as Chris]: Um… yeah…
+ALI [as Chris]: Um… yeah…
 
 
 ALI: I think that… so Heard knows that I got the… the tape- no, no, he knows that I got the keys and the piece of paper? And I think that Chris-
@@ -3257,7 +3265,7 @@ AUSTIN: Stealthy?
 ALI: Yeah! And like… [laughing] you have this tape now. I think there’s probably a note inside that’s like ‘Just nod and smile’
 
 
-        ALI [as Chris]: Oh! He told me to give you this… 
+ALI [as Chris]: Oh! He told me to give you this… 
 
 
 AUSTIN: This is eleven- this is static, rather- I’m putting static up to eleven at this moment.
@@ -3632,7 +3640,7 @@ AUSTIN: You’ll see. [Jack, Ali laugh] Okay, so, so…
 AUSTIN: She says-
 
 
-        AUSTIN [as Gale]: I have some great seats for you if you go to there-
+AUSTIN [as Gale]: I have some great seats for you if you go to there-
 
 
 AUSTIN: She leads you- and remember, this is converted church, right? And she leads you up to the second floor of the church, and there is a balcony- on the outside, the church that has its own- they've put up a- not a the ceiling but there’s a temporary- a temporary roof, basically. That people here can sit on the balcony, and see the screen all without having the hail hit their heads. [beat] And she sets you up in some nice chairs- they’re like chairs from the church, they’re like old Spanish colonial chairs [chuckles]. They look really rare... and valuable but here they are, and you're sitting on them... and the festival begins. 
@@ -3675,7 +3683,7 @@ AUSTIN [as Hector]: Alright! [claps] I’m gonna give you the tour of a- a wild 
 AUSTIN: And he just like, starts showing you around? And he says-
 
 
-        AUSTIN [as Hector]: This is it! This is the real world… 
+AUSTIN [as Hector]: This is it! This is the real world… 
 
 
 AUSTIN: And, you know- in the newspapers the next day, people are gonna talk about this like it’s a weird science fiction movie, right? And it will have a long term effect, for sure. People will think about what could be instead of what simply is. But for those of you who are on the edge- who are in the Concern- who already know that there are two worlds- whether you believe it or not, the doubt sets it- it has to. This is something that the Concern would not want anyone to know. That there is third place- a place where the rules are more material, make more sense, where time is linear and space is set. There cannot be a Bluffington or a Bluffington Beach or whatever the fuck this place is. There can be Bluff City and there can be Blough City, those things make sense. One of them is clean and expressive and exciting! And one of them is restrictive and terrible… that makes sense. There cannot be a third place, that is somehow more real.
