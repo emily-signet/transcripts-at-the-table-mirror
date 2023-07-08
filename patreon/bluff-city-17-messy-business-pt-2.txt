@@ -16,7 +16,7 @@ KEITH: HEARD = ROBBER)
 [Intro: ‘Messy Business Main Theme’ plays]
 
 
-AUSTIN (as COURSON): Specialist Courson, start record. Article intake file #8421. Object: Blough City Lot #92-dash-338. A collection of photographic equipment, okay! Description: Let’s see… start with a walnut-coloured leather gear bag — with a shoulder strap and a stainless steel clasp, nice. Includes one camera, brown and silver, two lenses, a pair of binoculars, also brown and silver. Additional accessories seem to be from some sort of… portable dark room? Yeah… Each piece besides the developmental equipment includes a carrying case. 
+AUSTIN (as CORSON): Specialist Corson, start record. Article intake file #8421. Object: Blough City Lot #92-dash-338. A collection of photographic equipment, okay! Description: Let’s see… start with a walnut-coloured leather gear bag — with a shoulder strap and a stainless steel clasp, nice. Includes one camera, brown and silver, two lenses, a pair of binoculars, also brown and silver. Additional accessories seem to be from some sort of… portable dark room? Yeah… Each piece besides the developmental equipment includes a carrying case. 
 
 
 Condition: Mixed. Camera shows heavy use, damage to leather and metal. But it is operational. Lenses are in excellent and near-mint condition. Binoculars, likewise in good shape. Accessories are… a grab bag, sell them as-is. 
@@ -25,7 +25,7 @@ Condition: Mixed. Camera shows heavy use, damage to leather and metal. But it is
 Price? For the lot, let’s say 400 to start with, 15-20 incremental. 650 up front, minimum. Actually, you know what? You know what, put an asterisk on that. Let me just, set up the machine to— 
 
 
-Yeah, okay. Ah, comments and analysis: Where to begin with a lot like this? I mean… [sighs] I guess I should start with the weirdest thing: the dark room. It’s… it’s weird. It’s like a little portable desk with containers for the chemicals, and a tiny bath basin for the film to develop in. This is some real ‘prosumer’ shit. But let me tell you, this right here? This is a nice camera! It has a sort of a retro aesthetic, like a lot of things in Blough City. Look for buyers with a penchant for the classics. Additional lenses are smartly chosen for surveillance work, which means it might take some massaging if you’re trying to sell to a bird watcher or something, but it’s not beyond your abilities, Mimona. Binocs are solid too. Some fingerprints, a little oil on the metal, but the lenses are crystal clear. A real sense of presence when you look through ‘em. And that is just the mundane stuff.
+Yeah, okay. Ah, comments and analysis: Where to begin with a lot like this? I mean… [sighs] I guess I should start with the weirdest thing: the dark room. It’s… it’s weird. It’s like a little portable desk with containers for the chemicals, and a tiny bath basin for the film to develop in. This is some real ‘prosumer’ shit. But let me tell you, this right here? This is a nice camera! It has a sort of a retro aesthetic, like a lot of things in Blough City. Look for buyers with a penchant for the classics. Additional lenses are smartly chosen for surveillance work, which means it might take some massaging if you’re trying to sell to a bird watcher or something, but it’s not beyond your abilities, Mammona. Binocs are solid too. Some fingerprints, a little oil on the metal, but the lenses are crystal clear. A real sense of presence when you look through ‘em. And that is just the mundane stuff.
 
 
 I got curious when I read this was found out on some suburban rooftop in the Thicket near the, uh… the Blake Blossom scene? You read about that? Tricky stuff. So I thought maybe this was connected — I did a spectrographic scan, ran a quick membranic[1] analysis, and it turns out this stuff didn’t belong to a private dick. This is Concern tech, friendo. This could ID outsiders, Peels, even other business folks like us. So, you sell to a normie, start at 400, 650 up front. But if you have a cross-towner on the hook? Bump that up exponentially. Or, chuck it. Sometimes it’s better for rare goods to leave circulation. 
@@ -2746,7 +2746,7 @@ AUSTIN (as SLEEVES): No, I’m not much for film. You know, I, I read the paper.
 JACK (as FLORENCE): You know? I’ve heard… I’ve heard that from some- from, from several people. [Sleeves affirms] It’s a more common view than you’d think. Not all of us are moviegoers. Where are you from, Sleeves?
 
 
-AUSTIN (as SLEEVES): You know me, born in Standard Town but worked my way up into Counting House. How ‘bout you?
+AUSTIN (as SLEEVES): You know me, born in Standard Town but worked my way up into Countinghouse. How ‘bout you?
 
 
 JACK: Oh, um… [laughs] This is now me thinking. 
