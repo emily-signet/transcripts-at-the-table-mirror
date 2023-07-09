@@ -1,20 +1,20 @@
 ﻿Live at the Table 55: Bluff City Zoo TWO! (Pt 1)
 Transcriber: Anachilles
 Setup        1
-Choosing Details [0:27:15]        24
+Choosing Details [27:15]        24
 Describing Characters [1:11:30]        57
-Project Zoos [1:49:33]        86
-Act 1 Begins [1:58:15]        92
-Scene 1 [2:06:23]        98
-Scene 2 [2:37:45]        126
-Scene 3 [2:44:55]        132
-Scene 4 [2:52:34]        137
-Scene 5 [3:11:00]        151
-Scene 6 [3:28:00]        165
-Scene 7 [3:38:00]        171
-Scene 8 [3:51:00]        179
-The Tilt [4:04:15]        191
-Closing [4:23:25]        202
+Project Zoos [1:49:33]        1
+Act 1 Begins [1:58:15]        1
+Scene 1 [2:06:23]        1
+Scene 2 [2:37:45]        1
+Scene 3 [2:44:55]        1
+Scene 4 [2:52:34]        1
+Scene 5 [3:11:00]        1
+Scene 6 [3:28:00]        1
+Scene 7 [3:38:00]        1
+Scene 8 [3:51:00]        1
+The Tilt [4:04:15]        1
+Closing [4:23:25]        1
 Setup
 Janine: Uh, hey folks.
 Ali: Hello.
@@ -377,7 +377,7 @@ Jack: Okay. Sounds good to me.
 Ali: [chuckles]
 Jack: I don't have access to moving that stuff, unfortunately.
 Janine: I got it, I got it. Okay.
-Choosing Details [0:27:15]
+Choosing Details [27:15]
 Jack: Okay. Uh... all right. So, Ali, you want to take one of these die and talk about what you are unlocking?
 Ali: Uh, yeah. I am going to take this white 5. Do I just, do I just pull it over to me? This is mine now?
 Jack: Yep. Just hold onto it for the time being.
